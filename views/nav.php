@@ -9,12 +9,12 @@
 
         <nav id="nav-menu-container">
             <ul class="nav-menu">
-                <li><a href="#hero">Home</a></li>
-                <li><a href="#about">About Us</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
-                <li><a href="#team">Team</a></li>
+                <li><a href="../index.php#hero">Home</a></li>
+                <li><a href="../index.php#about">About Us</a></li>
+                <li><a href="../index.php#services">Services</a></li>
+                <li><a href="../index.php#portfolio">Portfolio</a></li>
+                <li><a href="../index.php#testimonials">Testimonials</a></li>
+                <li><a href="../index.php#team">Team</a></li>
                 <li><a href="store.html">Store</a></li>
                 <!---<li class="menu-has-children"><a href="">Drop Down</a>
                   <ul>
