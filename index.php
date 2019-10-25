@@ -171,7 +171,7 @@
             <div class="service-icon"><i class="fa fa-desktop"></i></div>
             <h4 class="service-title"><a href="#">Web Design</a></h4>
             <p class="service-description">Sleek and modern websites that will incorporate all your business needs in an easy to use interface.</p>
-            <div style="text-align: center"><a href="services/webdevelopment.php" class="services-box-button">Learn more</a></div>
+            <div style="text-align: center"><a href="services/webdesign.php" class="services-box-button">Learn more</a></div>
           </div>
 
 
@@ -233,7 +233,7 @@
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
           <p class="service-description">We will maintain your website at peak performance while making any additional changes you request!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a>/div>
 
         </div>
 
