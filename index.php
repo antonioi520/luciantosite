@@ -233,7 +233,7 @@
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
           <p class="service-description">We will maintain your website at peak performance while making any additional changes you request!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a>/div>
+          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
         </div>
 
