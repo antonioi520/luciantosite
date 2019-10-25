@@ -179,7 +179,7 @@
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
           <h4 class="service-title"><a href="">Analytics</a></h4>
           <p class="service-description">Make use of analytics to form a deeper understanding of your consumer base.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/analytics.php" class="services-box-button">Learn more</a></div>
         </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
