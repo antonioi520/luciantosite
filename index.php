@@ -92,7 +92,7 @@
           <li><a href="store.html">Store</a></li>
           <!---<li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
+              <li><a href="#">Drop Down 1 </a></li>
               <li class="menu-has-children"><a href="#">Drop Down 2</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
