@@ -1,9 +1,9 @@
-<header id="header">
+<header id="header" style="padding-top: 10px;padding-bottom: 10px;height:60px;">
     <div class="container">
 
-        <div id="logo" class="pull-left">
-            <a href="#hero"><img src="../img/logo2.png" alt="" title="" /></a>
-            <a href="#hero"><img src="../img/lucianto.png" alt="" title="" /></a>
+        <div id="logo" class="pull-left" style="height:30px;">
+            <a href="#hero"><img src="../img/logo2.png" alt="" title="" style="margin-bottom:5px" /></a>
+            <a href="#hero"><img src="../img/lucianto.png" alt="" title="" style="height:45px;margin-bottom: 10px;" /></a>
             <p><a href="#hero"style="color:white;font-weight: bold;font-size: 15px;"></a></p>
         </div>
 
