@@ -174,6 +174,21 @@
             <div style="text-align: center"><a href="services/webdesign.php" class="services-box-button">Learn more</a></div>
           </div>
 
+          <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
+              <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
+              <h4 class="service-title"><a href="">Mobile Development</a></h4>
+              <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
+              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+
+          </div>
+
+          <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
+              <div class="service-icon"><i class="fa fa-database"></i></div>
+              <h4 class="service-title"><a href="">Database Management</a></h4>
+              <p class="service-description">Content management system for your website providing you access to create, read, update, and delete data</p>
+              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+
+          </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
@@ -181,6 +196,13 @@
           <p class="service-description">Make use of analytics to form a deeper understanding of your consumer base.</p>
           <div style="text-align: center"><a href="services/analytics.php" class="services-box-button">Learn more</a></div>
         </div>
+
+          <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
+              <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
+              <h4 class="service-title"><a href="">Shop</a></h4>
+              <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
+              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
@@ -198,28 +220,9 @@
 
         </div>
 
-        <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
-          <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
-          <h4 class="service-title"><a href="">Mobile Development</a></h4>
-          <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
-        </div>
 
-        <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
-          <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
-          <h4 class="service-title"><a href="">Shop</a></h4>
-          <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
-        </div>
 
-        <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
-          <div class="service-icon"><i class="fa fa-database"></i></div>
-          <h4 class="service-title"><a href="">Database Management</a></h4>
-          <p class="service-description">Content management system for your website providing you access to create, read, update, and delete data</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
-
-        </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-users"></i></div>
