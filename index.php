@@ -124,7 +124,7 @@
         <div class="col-md-12">
           <h3 class="section-title">About Us</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Welcome to Lucianto! We are a web development company here to provide you with the highest quality services to take your business to the next level!</p>
+          <p class="section-description" style="font-size: 16px;">We are a web development company based in Rhode Island here to provide you with the highest quality services to take your business to the next level!</p>
         </div>
       </div>
     </div>
@@ -137,12 +137,19 @@
 
         <div class="col-md-6 about-content">
           <h2 class="about-title">We provide great services and ideas</h2>
+            <p class="about-text">
+               Lucianto Web Development is based in Rhode Island and love working with the local businesses here as well as international clients. If you would like to set up a face to face meeting get in contact with us and we would be happy to oblige! WORDING
+            </p>
           <p class="about-text">
             We at Lucianto can handle anything from basic to advanced web demands including database management and maintenance as well as other business needs such as designing flyers or business cards.
           </p>
           <p class="about-text">
-            We work hard to provide you with everything you need and meet any request. We have very customizable packages to guarantee that you only pay for what you need without any of additional nonsense costs. Check out how we determine costs further below!
+            We work hard to provide you with everything you need and meet any request. We have very customizable packages to guarantee that you only pay for what you need without any of additional nonsense costs other companies may charge you. Check out how we determine costs further below!
           </p>
+          <p class="about-text">
+                We strongly believe all forms of business, no matter how large or small, can benefit exceptionally from forming a web presence. Opening yourself to a user base of potentially millions is crucial in today's age. We are here to work with you to set and accomplish new goals. WORDING
+          </p>
+
           <p class="about-text">
             You can expect great communication and hard work by very driven and passionate developers. Together we will create your product to help launch your business to the next level!
           </p>
@@ -174,13 +181,35 @@
             <div style="text-align: center"><a href="services/webdesign.php" class="services-box-button">Learn more</a></div>
           </div>
 
+          <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
+              <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
+              <h4 class="service-title"><a href="">Mobile Development</a></h4>
+              <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
+              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+
+          </div>
+
+          <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
+              <div class="service-icon"><i class="fa fa-database"></i></div>
+              <h4 class="service-title"><a href="">Database Management</a></h4>
+              <p class="service-description">Content management system for your website providing you access to create, read, update, and delete data</p>
+              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+
+          </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
           <h4 class="service-title"><a href="">Analytics</a></h4>
           <p class="service-description">Make use of analytics to form a deeper understanding of your consumer base.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/analytics.php" class="services-box-button">Learn more</a></div>
         </div>
+
+          <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
+              <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
+              <h4 class="service-title"><a href="">Shop</a></h4>
+              <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
+              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
@@ -198,28 +227,9 @@
 
         </div>
 
-        <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
-          <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
-          <h4 class="service-title"><a href="">Mobile Development</a></h4>
-          <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
-        </div>
 
-        <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
-          <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
-          <h4 class="service-title"><a href="">Shop</a></h4>
-          <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
-        </div>
 
-        <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
-          <div class="service-icon"><i class="fa fa-database"></i></div>
-          <h4 class="service-title"><a href="">Database Management</a></h4>
-          <p class="service-description">Content management system for your website providing you access to create, read, update, and delete data</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
-
-        </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-users"></i></div>
@@ -274,7 +284,7 @@
       <div class="row">
 
         <div class="col-md-3">
-          <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="https://www.thebomestheatre.com" target="_blank">
+          <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
             <div class="details">
               <h4 style="color:white;">The Bomes Theatre</h4>
               <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing people to submit their requests to book an event.</span>
@@ -516,11 +526,7 @@
     <div class="container about-container wow fadeInUp">
       <div class="row">
 
-        <div >
-        <div style="margin:10px;">
-          <p ><strong >Base Price:</strong> We have a set base price of $500</p>
-        </div>
-      </div>
+
 
         <div >
           <div style="margin:10px;">
