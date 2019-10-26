@@ -284,7 +284,7 @@
       <div class="row">
 
         <div class="col-md-3">
-          <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="https://www.thebomestheatre.com" target="_blank">
+          <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
             <div class="details">
               <h4 style="color:white;">The Bomes Theatre</h4>
               <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing people to submit their requests to book an event.</span>
