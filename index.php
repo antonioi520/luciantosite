@@ -124,7 +124,7 @@
         <div class="col-md-12">
           <h3 class="section-title">About Us</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Welcome to Lucianto! We are a web development company here to provide you with the highest quality services to take your business to the next level!</p>
+          <p class="section-description" style="font-size: 16px;">We are a web development company based in Rhode Island here to provide you with the highest quality services to take your business to the next level!</p>
         </div>
       </div>
     </div>
@@ -137,12 +137,19 @@
 
         <div class="col-md-6 about-content">
           <h2 class="about-title">We provide great services and ideas</h2>
+            <p class="about-text">
+               Lucianto Web Development is based in Rhode Island and love working with the local businesses here as well as international clients. If you would like to set up a face to face meeting get in contact with us and we would be happy to oblige! WORDING
+            </p>
           <p class="about-text">
             We at Lucianto can handle anything from basic to advanced web demands including database management and maintenance as well as other business needs such as designing flyers or business cards.
           </p>
           <p class="about-text">
-            We work hard to provide you with everything you need and meet any request. We have very customizable packages to guarantee that you only pay for what you need without any of additional nonsense costs. Check out how we determine costs further below!
+            We work hard to provide you with everything you need and meet any request. We have very customizable packages to guarantee that you only pay for what you need without any of additional nonsense costs other companies may charge you. Check out how we determine costs further below!
           </p>
+          <p class="about-text">
+                We strongly believe all forms of business, no matter how large or small, can benefit exceptionally from forming a web presence. Opening yourself to a user base of potentially millions is crucial in today's age. We are here to work with you to set and accomplish new goals. WORDING
+          </p>
+
           <p class="about-text">
             You can expect great communication and hard work by very driven and passionate developers. Together we will create your product to help launch your business to the next level!
           </p>
@@ -519,11 +526,7 @@
     <div class="container about-container wow fadeInUp">
       <div class="row">
 
-        <div >
-        <div style="margin:10px;">
-          <p ><strong >Base Price:</strong> We have a set base price of $500</p>
-        </div>
-      </div>
+
 
         <div >
           <div style="margin:10px;">
