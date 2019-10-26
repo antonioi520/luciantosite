@@ -577,13 +577,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 24px;
 }
 
-#services .service-item:hover .service-icon {
-  background: #fff;
+/*#services .service-item:hover .service-icon {
+    background: #fff;
 }
 
 #services .service-item:hover .service-icon i {
   color: #03C4EB;
-}
+}*/
 
 #services .service-title {
   margin-left: 80px;
@@ -1009,4 +1009,111 @@ body.mobile-nav-active #mobile-nav-toggle {
   color:white;
   background-color: #03C4EB;
   transition: .5s;
+}
+
+#portfoliohero {
+  display: table;
+  width: 100%;
+  height: 100vh;
+  background: url(../img/portfolio/bomes/testbanner3.png) top center;
+  background-size: auto;
+}
+
+@media (min-width: 1024px) {
+  #portfoliohero {
+    //background-attachment: fixed;
+    //background-size: cover;
+  }
+}
+
+#portfoliohero .hero-logo {
+  margin: 20px;
+}
+
+#portfoliohero .hero-logo img {
+  max-width: 100%;
+}
+
+#portfoliohero .hero-container {
+  background: rgba(0, 0, 0, 0);
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+@media (max-width: 768px) {
+  #portfoliohero h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+
+}
+
+#portfoliohero h2 {
+  color: #999;
+  margin-bottom: 50px;
+}
+
+#portfoliohero p {
+  color: #999;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 768px) {
+  #portfoliohero h2 {
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 30px;
+  }
+  #portfoliohero h2 .rotating {
+    display: block;
+  }
+  #portfoliohero p {
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 30px;
+  }
+  #portfoliohero p .rotating {
+    display: block;
+  }
+
+}
+
+#portfoliohero .rotating > .animated {
+  display: inline-block;
+}
+
+#portfoliohero .actions a {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 2px;
+  transition: 0.5s;
+  margin: 10px;
+}
+
+#portfoliohero .btn-get-started {
+  background: #03C4EB;
+  border: 2px solid #03C4EB;
+  color: #fff;
+}
+.visitSite{
+  color:white;
+  border: 1px solid;
+  padding-left:5px;
+  padding-right:5px;
+}
+.visitSite:hover{
+  color:white;
+  border: 1px solid;
+  padding-left:5px;
+  padding-right:5px;
+  background-color: #03C4EB;
 }
