@@ -115,7 +115,7 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    The Bomes Theatre is a historic venue recently purchased and brought back to life. Located on the south side of Providence, The Bomes Theatre bringes monthly performance events with all types of genres. The Bomes Theatre also provides services for weddings, birthdays, baby showers and more.
+                    The Bomes Theatre is a historic venue recently purchased and brought back to life. Located on the south side of Providence, The Bomes Theatre brings monthly performance events with all types of genres. The Bomes Theatre also provides services for weddings, birthdays, baby showers and more.
                 </p>
                 <p class="about-text">
                     The Bomes Theatre liked previous displayed designs of ours and requested a similar design, so we took that as our base and started working to have it fit their platform. We started with setting up a list of tasks to implement all initially requested services and information and adding on to this when needed.
