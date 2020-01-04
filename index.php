@@ -177,7 +177,7 @@
           <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
             <div class="service-icon"><i class="fa fa-desktop"></i></div>
             <h4 class="service-title"><a href="#">Web Design</a></h4>
-            <p class="service-description">Sleek and modern websites that will incorporate all your business needs in an easy to use interface.</p>
+            <p class="service-description">Sleek and modern websites that will accommodate all your business needs in an easy to use interface.</p>
             <div style="text-align: center"><a href="services/webdesign.php" class="services-box-button">Learn more</a></div>
           </div>
 
@@ -192,7 +192,7 @@
           <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
               <div class="service-icon"><i class="fa fa-database"></i></div>
               <h4 class="service-title"><a href="">Database Management</a></h4>
-              <p class="service-description">Content management system for your website providing you access to create, read, update, and delete data</p>
+              <p class="service-description">Content management system for your website providing you access to create, read, update and delete data.</p>
               <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
           </div>
@@ -242,7 +242,7 @@
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
-          <p class="service-description">We will maintain your website at peak performance while making any additional changes you request!</p>
+          <p class="service-description">We will ensure your website is at peak performance, while making any additional changes you request!</p>
           <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
         </div>
@@ -277,7 +277,7 @@
         <div class="col-md-12">
           <h3 class="section-title">Portfolio</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Here are examples of some our previous projects for our clients! Hover over the image for more information or click on the blurb to visit!</p>
+          <p class="section-description">Here are examples of some our previous projects for our clients! <br> Hover over the image for more information or click on the blurb to visit!</p>
         </div>
       </div>
 
