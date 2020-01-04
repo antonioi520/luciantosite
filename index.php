@@ -136,9 +136,9 @@
         </div>
 
         <div class="col-md-6 about-content">
-          <h2 class="about-title">We provide great services and ideas</h2>
+          <h2 class="about-title">We provide great services and ideas!</h2>
             <p class="about-text">
-               Lucianto Web Development is based in Rhode Island and love working with the local businesses here as well as international clients. If you would like to set up a face to face meeting get in contact with us and we would be happy to oblige! WORDING
+                Lucianto Web Development is based in Rhode Island and we love working with the local businesses here, as well as international clients. If you would like to discuss how we can elevate your business together, please <a href="#contact"><u>contact us</u></a> below!
             </p>
           <p class="about-text">
             We at Lucianto can handle anything from basic to advanced web demands including database management and maintenance as well as other business needs such as designing flyers or business cards.
@@ -177,7 +177,7 @@
           <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
             <div class="service-icon"><i class="fa fa-desktop"></i></div>
             <h4 class="service-title"><a href="#">Web Design</a></h4>
-            <p class="service-description">Sleek and modern websites that will incorporate all your business needs in an easy to use interface.</p>
+            <p class="service-description">Sleek and modern websites that will accommodate all your business needs in an easy to use interface.</p>
             <div style="text-align: center"><a href="services/webdesign.php" class="services-box-button">Learn more</a></div>
           </div>
 
@@ -192,7 +192,7 @@
           <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
               <div class="service-icon"><i class="fa fa-database"></i></div>
               <h4 class="service-title"><a href="">Database Management</a></h4>
-              <p class="service-description">Content management system for your website providing you access to create, read, update, and delete data</p>
+              <p class="service-description">Content management system for your website providing you access to create, read, update and delete data.</p>
               <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
           </div>
@@ -242,7 +242,7 @@
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
-          <p class="service-description">We will maintain your website at peak performance while making any additional changes you request!</p>
+          <p class="service-description">We will ensure your website is at peak performance, while making any additional changes you request!</p>
           <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
 
         </div>
@@ -277,7 +277,7 @@
         <div class="col-md-12">
           <h3 class="section-title">Portfolio</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Here are examples of some our previous projects for our clients! Hover over the image for more information or click on the blurb to visit!</p>
+          <p class="section-description">Here are examples of some our previous projects for our clients! <br> Hover over the image for more information or click on the blurb to visit!</p>
         </div>
       </div>
 
@@ -287,7 +287,7 @@
           <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
             <div class="details">
               <h4 style="color:white;">The Bomes Theatre</h4>
-              <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing people to submit their requests to book an event.</span>
+              <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing clients to submit their requests to book an event.</span>
             </div>
           </a>
         </div>
@@ -296,7 +296,7 @@
           <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="https://www.mialmarestaurant.com">
             <div class="details">
               <h4 style="color:white;">Mi Alma Restaurant</h4>
-              <span style="color:white;">Website built for a Latin fusion restaurant</span>
+              <span style="color:white;">Website built for a Latin fusion restaurant!</span>
             </div>
           </a>
         </div>
@@ -306,7 +306,7 @@
             <div class="details">
               <h4 style="color:white;">NUR Performance Flyer</h4>
 
-              <span style="color:white;">Mock-up Advertisement for performance shop</span>
+              <span style="color:white;">Mock-up Advertisement for performance shop!</span>
             </div>
           </a>
         </div>
@@ -328,7 +328,7 @@
           <a class="portfolio-item" style="background-image: url(img/port5.jpg);"  data-toggle="modal" data-target="#myModal2">
             <div class="details">
               <h4 style="color:white;">NUR Performance Flyer 2</h4>
-              <span style="color:white;">Mock-up Advertisement for performance shop</span>
+              <span style="color:white;">Mock-up Advertisement for performance shop!</span>
             </div>
           </a>
         </div>
@@ -350,7 +350,7 @@
           <a class="portfolio-item" style="background-image: url(img/port1.png);" href="https://www.steamweight.com" target="_blank">
             <div class="details">
               <h4 style="color:white;">SteamWeight</h4>
-              <span style="color:white;">Compact website for statistics on your steam account created via PHP</span>
+              <span style="color:white;">Compact website for statistics on your steam account created via PHP!</span>
             </div>
           </a>
         </div>
@@ -359,7 +359,7 @@
           <a class="portfolio-item" style="background-image: url(img/port2.png);" href="">
             <div class="details">
               <h4 style="color:white;">Fighting Game</h4>
-              <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#</span>
+              <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#!</span>
             </div>
           </a>
         </div>
@@ -379,7 +379,7 @@
           <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="">
             <div class="details">
               <h4 style="color:white;">Lock & Load</h4>
-              <span style="color:white;">PC FPS game and teaser video developed in C#</span>
+              <span style="color:white;">PC FPS game and teaser video developed in C#!</span>
             </div>
           </a>
         </div>
@@ -542,19 +542,19 @@
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Search Engine Optimization:</strong> Unlike other companies, we will not charge you extra for our in depth Search Engine Optimization, helping boost your website higher up in search results. </p>
+            <p ><strong >Search Engine Optimization:</strong> Unlike our competitors, we will not charge you extra for our in depth Search Engine Optimization, helping boost your website higher up in search results. </p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Content Creation:</strong> Like our content system, prices vary depending if you already have all your content ready to be sent over and published, or if you would need us to migrate content from another system, or if you would like us to create content from scratch.</p>
+            <p ><strong >Content Creation:</strong> Similarly to our content system, prices vary if you already have all your content ready to be sent over and published, if you would need us to migrate content from another system, or if you would like us to create content from scratch.</p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Customer Support & Maintenance:</strong> We are readily available around the clock to implement any new features or content. We perform routine checks to ensure something optimization and to make sure your product is running at peak performance. Any questions or concerns will be answered within 24 hours with various contact options.</p>
+            <p ><strong >Customer Support & Maintenance:</strong> We are readily available around the clock to implement any new features or content. We perform routine checks to ensure the site is optimized and running at peak performance. Any questions or concerns will be answered within 24 hours with various contact options.</p>
           </div>
         </div>
 
@@ -571,7 +571,7 @@
         <div class="col-md-12">
           <h3 class="section-title">Contact Us</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p class="section-description">Interested in our services? Be sure to fill out the form below!</p>
         </div>
       </div>
 
@@ -583,8 +583,6 @@
               <i class="fa fa-envelope"></i>
               <p>info@example.com</p>
             </div>
-
-
 
           </div>
         </div>

@@ -72,10 +72,10 @@
                 Your website is an important tool that provides you with a podium for a necessary web presence, allowing you to get in touch with millions of users around the world, widening your range of potential customers and expanding your brand.
             </p>
             <p class="about-text">
-                The design aspect of this development process is important as it impacts how your audience will perceive your brand. The impression we work to make results in the user remaining on the page to learn about your business and become a potential customer rather than turning to a competitor.
+                The design aspect of this development process is important as it impacts how your audience will perceive your brand. We work hard to ensure the end user remains on the page to learn more about your business and become a potential customer rather than turning to a competitor.
             </p>
             <p class="about-text">
-                We take your project and start the process by breaking it down into a set of tasks that we work to complete, creating a road map for the project to meet expected completion dates. This also allows you to give your input on each task and what you would like changed or added.
+                We take your vision and start by breaking it down into a set of manageable tasks and deliverables that we work to complete, creating a road map for the project and working hard to ensure your product launches by its deadline. This also allows you to give your input on each task and what you would like changed or added.
             </p>
         </div>
         <div class="col-lg-5 about-img">
@@ -96,13 +96,13 @@
             <h1 style="font-weight: bold;font-size: 50px;color:black;">Responsive Web Design</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
             <p class="about-text">
-                Your website must be accessible and usable on as many devices as possible in order to widen your consumer base and bring in the most amount of users. In today's day and age, 50% of web traffic comes from mobile devices, and with the large range of screen displays today you want to ensure you can reach all of these users.
+                Your website must be accessible and usable on as many devices as possible in order to widen your consumer base and bring in the most amount of users. In today's day and age, 50% of web traffic comes from mobile devices, and with the large range of screen displays today, you want to ensure you can reach all of these users.
             </p>
             <p class="about-text">
-                With responsive web design, you can achieve this. We design our websites in a way that they will be accessible on all these devices while maintaining a sleek look and seamless user experience.
+                With responsive web design, you can achieve this. We design our websites in a way that they will be accessible on all these devices, while maintaining a sleek look and seamless user experience.
             </p>
             <p class="about-text">
-                This is done by detecting the users screen size and changing the layout accordingly giving the user the most optimal display and allowing them to navigate through your website and learn more about your business.
+                This is done by detecting the users screen size and changing the layout accordingly, giving the user the most optimal display and allowing them to navigate through your website and learn more about your business.
             </p>
         </div>
 
@@ -119,7 +119,7 @@
                 The internet is built for everybody. We believe that all users should be accommodated for in order to ensure that your brand has as many eyes on it as possible.
             </p>
             <p class="about-text">
-                With Web Accessibility, this means designing your website so they can be perceived, understood, interacted with, and navigated by users with disabilities. Currently, many sites and tools are developed without this in mind, creating barriers and excluding users due to them being difficult or even impossible to use. Following W3C standards, we ensure not to exclude anybody which benefits individuals and businesses as a whole.
+                With Web Accessibility, this means designing your website so they can be perceived, understood, interacted with, and navigated by users with disabilities. Currently, many sites and tools are developed without this in mind, creating barriers and excluding users due to them being difficult or even impossible to use. Following W3C standards, we're able to ensure no one is excluded, which benefits individuals and businesses as a whole.
             </p>
             <p class="about-text">
                 Not only does this help users with disabilities, but also users with small screens, older users with changing abilities due to ageing, more "temporary disabilities" like a broken arm, people with situational limitations such as in bright sunlight, or users with a slow connection.

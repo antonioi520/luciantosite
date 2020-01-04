@@ -115,13 +115,13 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    The Bomes Theatre is a historic venue recently purchased and brought back to life. Located on the south side of Providence, The Bomes Theatre bringes monthly performance events with all types of genres. The Bomes Theatre also provides services for weddings, birthdays, baby showers and more.
+                    The Bomes Theatre is a historic venue recently purchased and brought back to life. Located on the south side of Providence, The Bomes Theatre brings monthly performance events with all types of genres. The Bomes Theatre also provides services for weddings, birthdays, baby showers and more.
                 </p>
                 <p class="about-text">
-                    The Bomes Theatre liked previous displayed designs of ours and requested a similar design, so we took that as our base and started working to have it fit their platform. We started with setting up a list of tasks to implement all initially requested services and information and adding on to this when needed.
+                    The Bomes Theatre enjoyed our work on their sister site, Mi Alma Restaurant and requested a similar design for their theatre, so we took that as our base and started working to have it fit their platform and vision. We started with setting up a list of tasks to implement all initially requested services and information and adding on to this when needed.
                 </p>
                 <p class="about-text">
-                    This includes displaying their location, social media, and contact information as well as a way to contact them straight through their website. We set up pages displaying all of their services, their upcoming and recurring events, and information about their restaraunt within the venue. We then set up their booking system allowing customers to submit their information in order to host their own events as well as a calendar showing available dates. Lastly, we implemented their gallery, which hosts a multitude of professionally taken, high quality images.
+                    This includes displaying their location, social media, and contact information as well as a way to contact them straight through their website. We set up pages displaying all of their services, their upcoming and recurring events, and information about their restaurant within the venue. We then set up their booking system allowing customers to submit their information in order to host their own events as well as a calendar showing available dates. Lastly, we implemented their gallery, which hosts a multitude of professionally taken, high quality images.
                 </p>
             </div>
             <div class="col-lg-1"></div>
@@ -129,7 +129,7 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text" style="text-align: center">
-                    HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Something
+                    HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
                 </p>
             </div>
 
