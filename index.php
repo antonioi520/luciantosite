@@ -287,7 +287,7 @@
           <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
             <div class="details">
               <h4 style="color:white;">The Bomes Theatre</h4>
-              <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing people to submit their requests to book an event.</span>
+              <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing clients to submit their requests to book an event.</span>
             </div>
           </a>
         </div>
@@ -296,7 +296,7 @@
           <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="https://www.mialmarestaurant.com">
             <div class="details">
               <h4 style="color:white;">Mi Alma Restaurant</h4>
-              <span style="color:white;">Website built for a Latin fusion restaurant</span>
+              <span style="color:white;">Website built for a Latin fusion restaurant!</span>
             </div>
           </a>
         </div>
@@ -306,7 +306,7 @@
             <div class="details">
               <h4 style="color:white;">NUR Performance Flyer</h4>
 
-              <span style="color:white;">Mock-up Advertisement for performance shop</span>
+              <span style="color:white;">Mock-up Advertisement for performance shop!</span>
             </div>
           </a>
         </div>
@@ -328,7 +328,7 @@
           <a class="portfolio-item" style="background-image: url(img/port5.jpg);"  data-toggle="modal" data-target="#myModal2">
             <div class="details">
               <h4 style="color:white;">NUR Performance Flyer 2</h4>
-              <span style="color:white;">Mock-up Advertisement for performance shop</span>
+              <span style="color:white;">Mock-up Advertisement for performance shop!</span>
             </div>
           </a>
         </div>
@@ -350,7 +350,7 @@
           <a class="portfolio-item" style="background-image: url(img/port1.png);" href="https://www.steamweight.com" target="_blank">
             <div class="details">
               <h4 style="color:white;">SteamWeight</h4>
-              <span style="color:white;">Compact website for statistics on your steam account created via PHP</span>
+              <span style="color:white;">Compact website for statistics on your steam account created via PHP!</span>
             </div>
           </a>
         </div>
@@ -359,7 +359,7 @@
           <a class="portfolio-item" style="background-image: url(img/port2.png);" href="">
             <div class="details">
               <h4 style="color:white;">Fighting Game</h4>
-              <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#</span>
+              <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#!</span>
             </div>
           </a>
         </div>
@@ -379,7 +379,7 @@
           <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="">
             <div class="details">
               <h4 style="color:white;">Lock & Load</h4>
-              <span style="color:white;">PC FPS game and teaser video developed in C#</span>
+              <span style="color:white;">PC FPS game and teaser video developed in C#!</span>
             </div>
           </a>
         </div>
