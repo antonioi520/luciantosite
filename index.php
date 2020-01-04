@@ -136,9 +136,9 @@
         </div>
 
         <div class="col-md-6 about-content">
-          <h2 class="about-title">We provide great services and ideas</h2>
+          <h2 class="about-title">We provide great services and ideas!</h2>
             <p class="about-text">
-               Lucianto Web Development is based in Rhode Island and love working with the local businesses here as well as international clients. If you would like to set up a face to face meeting get in contact with us and we would be happy to oblige! WORDING
+                Lucianto Web Development is based in Rhode Island and we love working with the local businesses here, as well as international clients. If you would like to discuss how we can elevate your business together, please <a href="#contact"><u>contact us</u></a> below!
             </p>
           <p class="about-text">
             We at Lucianto can handle anything from basic to advanced web demands including database management and maintenance as well as other business needs such as designing flyers or business cards.
