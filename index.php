@@ -542,19 +542,19 @@
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Search Engine Optimization:</strong> Unlike other companies, we will not charge you extra for our in depth Search Engine Optimization, helping boost your website higher up in search results. </p>
+            <p ><strong >Search Engine Optimization:</strong> Unlike our competitors, we will not charge you extra for our in depth Search Engine Optimization, helping boost your website higher up in search results. </p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Content Creation:</strong> Like our content system, prices vary depending if you already have all your content ready to be sent over and published, or if you would need us to migrate content from another system, or if you would like us to create content from scratch.</p>
+            <p ><strong >Content Creation:</strong> Similarly to our content system, prices vary if you already have all your content ready to be sent over and published, if you would need us to migrate content from another system, or if you would like us to create content from scratch.</p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Customer Support & Maintenance:</strong> We are readily available around the clock to implement any new features or content. We perform routine checks to ensure something optimization and to make sure your product is running at peak performance. Any questions or concerns will be answered within 24 hours with various contact options.</p>
+            <p ><strong >Customer Support & Maintenance:</strong> We are readily available around the clock to implement any new features or content. We perform routine checks to ensure the site is optimized and running at peak performance. Any questions or concerns will be answered within 24 hours with various contact options.</p>
           </div>
         </div>
 
@@ -571,7 +571,7 @@
         <div class="col-md-12">
           <h3 class="section-title">Contact Us</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p class="section-description">Interested in our services? Be sure to fill out the form below!</p>
         </div>
       </div>
 
@@ -583,8 +583,6 @@
               <i class="fa fa-envelope"></i>
               <p>info@example.com</p>
             </div>
-
-
 
           </div>
         </div>
