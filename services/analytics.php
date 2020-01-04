@@ -69,13 +69,13 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Benefits of Analytics</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Web analytics help you better identify and understand your target audience, allowing you to improve bounce rate, and increase your ROI by focusing your resources appropriately. Web analytics is additionally useful to any business for determining market interest, segmentation of the market, analyzing market trends, and determining the behavior of website visitors.
+                    Web analytics help you better identify and understand your target audience, allowing you to improve bounce rate, and increase your ROI by focusing your resources appropriately. Web analytics are additionally useful to any business for determining market interest, segmentation of the market, analyzing market trends, and determining the behavior of website visitors.
                 </p>
                 <p class="about-text">
-                    These statistics are determined and measured by how many viewers are visiting the website and from where, it shows keywords visitors are using to search products and services. Web analytics shows the number of visitors arriving to the site via different sources like search engines, social media, ads, or emails as well as the conversion rate through each of these sources.
+                    These statistics are determined and measured by how many viewers are visiting the website and from where, showing keywords your visitors are using to search products and services. Web analytics show the number of visitors arriving to the site via different sources like search engines, social media, ads, or emails, as well as the conversion rate through each of these sources.
                 </p>
                 <p class="about-text">
-                    Besides identifying and understanding your target audience, web analytics can help optimize your marketing campaigns. Using an array of tools, marketers can measure the performance of a campaign and which drive the best visitors. By gaining understanding of what is and isn't working, a marketer can invest more time on the right strategies.
+                    Besides identifying and understanding your target audience, web analytics can help optimize your marketing campaigns. Using an array of tools, marketers can measure the performance of a campaign and monitor which campaigns drive the most visitors. By gaining an understanding of what is and isn't working, a marketer can invest more time on the right strategies.
                 </p>
             </div>
             <div class="col-lg-5 about-img">
@@ -96,13 +96,13 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Analytics in Small Business</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    You do not need to be a large business to benefit from web analytics. In fact, we believe the sooner a small business embraces web analytics the better, and we are here to help you through every step! We can help you detect problems in the early stages of your platform, allowing you to save money, resources, and nerves as well as build your initial traction.
+                    You do not need to be a large business to benefit from web analytics. In fact, we believe the sooner a small business embraces web analytics, the better and we are here to help you through every step! We can help you detect problems in the early stages of your platform, allowing you to save money, resources, and nerves, as well as build your initial traction.
                 </p>
                 <p class="about-text">
-                    The main areas web analytics can help small business is through traffic and conversion, social media performance, user behavior, and key progress indicators. Knowing your users behavior as they progress through your website is crucial and can be what separates a small business from a large business. For example, if we see 70% of users leave your site at a registration page, then you know that maybe there are too many input fields or options that does not retain the user, allowing you to solve this issue and watch the growth in users as a result.
+                    The main areas web analytics can help small business is through traffic and conversion, social media performance, user behavior, and key progress indicators. Knowing your users' behavior as they progress through your website is crucial and can be the separating factor between a small business and a large business. For example, if we see 70% of users leave your site at a registration page, then you could make the assumption that there are too many input fields or options that do not retain the user, allowing you to solve this issue and watch the growth in users as a result.
                 </p>
                 <p class="about-text">
-                    Tracking keyword research is also important. Knowing what keywords users use to find your website and competitors websites and how they rank, allows you to develop a better Search Engine Optimization reputation, meaning implementing a list of high ranking keywords relevant to your business makes you more discoverable in search engines such as Google leading to more views and more users.
+                    Tracking keyword research is also important. Knowing what keywords users use to find your website and competitors' websites and how they rank, allows you to develop a better Search Engine Optimization reputation. This means implementing a list of high ranking keywords relevant to your business makes you more discoverable in search engines such as Google, leading to more views and more users.
                 </p>
             </div>
 
@@ -116,7 +116,7 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Tools Used</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    We use an array of tools depending on your wants and needs. The most basic being Google Analytics and Google Search Engine Console, giving a multitude of incredible, useful, and very specific tools. You can accomplish most of what you need with these basic tools and we can help you set it up as well as help you understand what you are looking at.
+                    We use an array of tools depending on your wants and needs. The most basic being Google Analytics and Google Search Engine Console, giving a multitude of incredible, useful, and very specific tools. You can accomplish most of what you need with these basic tools and we can help you set it up, as well as help you understand what you are looking at.
                 </p>
                 <p class="about-text">
                     Additionally, if you have any specific requests or needs that you would like to be met, we do offer the creation of in house tools for you to use so you can keep track of anything and everything without breaching any federal or state internet privacy laws.
