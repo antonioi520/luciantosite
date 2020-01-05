@@ -89,20 +89,22 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/store/store2.jpg" style="height:450px;width:600px;margin-top: 45px;float:left;">
+                <img src="../img/store/store2.jpg" style="height:450px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">The Importance of Branding</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Branding and Online Shopping</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    You do not need to be a large business to benefit from web analytics. In fact, we believe the sooner a small business embraces web analytics, the better and we are here to help you through every step! We can help you detect problems in the early stages of your platform, allowing you to save money, resources, and nerves, as well as build your initial traction.
+                    Branding is a critical part of any successful business, as it's how your customers can identify and recognize
+                    you in a sea of competitors. This can encompass a name, symbol, or design and it is generally representative of
+                    how you want consumers to perceive your company. Your logo defines you in the eyes of the public, but in order
+                    for your business to grow, you need a way to market your brand and have it seen by millions of eyes worldwide.
                 </p>
                 <p class="about-text">
-                    The main areas web analytics can help small business is through traffic and conversion, social media performance, user behavior, and key progress indicators. Knowing your users' behavior as they progress through your website is crucial and can be the separating factor between a small business and a large business. For example, if we see 70% of users leave your site at a registration page, then you could make the assumption that there are too many input fields or options that do not retain the user, allowing you to solve this issue and watch the growth in users as a result.
-                </p>
-                <p class="about-text">
-                    Tracking keyword research is also important. Knowing what keywords users use to find your website and competitors' websites and how they rank, allows you to develop a better Search Engine Optimization reputation. This means implementing a list of high ranking keywords relevant to your business makes you more discoverable in search engines such as Google, leading to more views and more users.
+                    This is where a digital storefront can really make a difference and help expand and grow your business. Consumers are
+                    always looking for ways to support their favorite brand, which is why adding an online marketplace to your website will
+                    give those customers ways to purchase merchandise or goods with your logo on it!
                 </p>
             </div>
 
@@ -110,7 +112,7 @@
 
         <br><br><br>
 
-        <div class="row">
+        <!--div class="row">
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Tools Used</h1>
@@ -129,7 +131,7 @@
 
         </div>
 
-        <br><br><br>
+        <br><br><br-->
 
         <div class="row">
 
