@@ -185,7 +185,7 @@
               <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
               <h4 class="service-title"><a href="">Mobile Development</a></h4>
               <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
-              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/mobiledev.php" class="services-box-button">Learn more</a></div>
 
           </div>
 
@@ -193,7 +193,7 @@
               <div class="service-icon"><i class="fa fa-database"></i></div>
               <h4 class="service-title"><a href="">Database Management</a></h4>
               <p class="service-description">Content management system for your website providing you access to create, read, update and delete data.</p>
-              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/database.php" class="services-box-button">Learn more</a></div>
 
           </div>
 
@@ -208,14 +208,14 @@
               <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="service-title"><a href="">Shop</a></h4>
               <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
-              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/shop.php" class="services-box-button">Learn more</a></div>
           </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
           <h4 class="service-title"><a href="">Flyers</a></h4>
           <p class="service-description">Beautifully made flyers to advertise your business and catch the eyes of your future customers.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/design.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -223,7 +223,7 @@
           <div class="service-icon"><i class="fa fa-photo"></i></div>
           <h4 class="service-title"><a href="">Business Cards</a></h4>
           <p class="service-description">Sleek and modern business cards for customers or business partners that will be sure to impress!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/design.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -581,37 +581,42 @@
 
             <div>
               <i class="fa fa-envelope"></i>
-              <p>info@example.com</p>
+              <p>contact@Lucianto.com</p>
             </div>
 
           </div>
         </div>
 
-        <div class="col-md-5 col-md-push-2">
-          <div class="form">
-            <div id="sendmessage">Your message has been sent. Thank you!</div>
-            <div id="errormessage"></div>
-            <form action="" method="post" role="form" class="contactForm">
-              <div class="form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                <div class="validation"></div>
+          <div class="col-md-5 col-md-push-2" style="padding-bottom: 0.625em;">
+              <div class="form">
+                  <div id="sendmessage">Your message has been sent. Thank you!</div>
+                  <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
+                  <form action="" method="post" role="form" class="contactForm" id="myForm">
+                      <div class="form-group">
+                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" minlength="2"  required />
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"  required />
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" minlength="4"  required />
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <textarea class="form-control" name="message" rows="5"  placeholder="Message" minlength="2" required></textarea>
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <!-- captcha-->
+                          <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
+                      </div>
+
+                      <div class="text-center"><button style="background-color: deepskyblue;" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                  </form>
               </div>
-              <div class="form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                <div class="validation"></div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validation"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validation"></div>
-              </div>
-              <div class="text-center"><button type="submit">Disabled</button></div>
-            </form>
           </div>
-        </div>
 
       </div>
     </div>
@@ -638,6 +643,66 @@
   <script src="js/jquery-2.1.4.js"></script>
   <script src="js/main.js"></script>
 
+  <script type="text/javascript">
+      var frm = $('#myForm');
+      frm.submit(function (ev) {
+          $.ajax({
+              type: frm.attr('method'),
+              url: "send_email.php",
+              data: frm.serialize(),
+              success: function (data) {
+
+                  return false;
+              },
+              error: function()
+              {
+                  $("#errormessage").show();
+
+                  return false;
+              }
+          });
+
+          ev.preventDefault();
+      });
+  </script>
+  <script>
+      var invalidClassName = 'invalid'
+      var inputs = document.querySelectorAll('input, select, textarea')
+      inputs.forEach(function (input) {
+          // Add a css class on submit when the input is invalid.
+          input.addEventListener('invalid', function () {
+              input.classList.add(invalidClassName)
+          })
+
+          // Remove the class when the input becomes valid.
+          // 'input' will fire each time the user types
+          input.addEventListener('input', function () {
+              if (input.validity.valid) {
+                  input.classList.remove(invalidClassName)
+              }
+          })
+      })
+  </script>
+  <script>
+      function recaptchaCallbackSubmit(){
+          //var response = grecaptcha.getResponse().length;
+          if(grecaptcha.getResponse().length > 0){
+              //captcha validated and got response code
+              $("#sendmessage").show();
+              $("#errormessage").hide();
+              // $("#myForm")[0].reset();
+              grecaptcha.reset();
+              return false;
+          }else{
+              //$("#myForm")[0].reset();
+              grecaptcha.reset();
+              $("#errormessage").show();
+              $("#sendmessage").hide();
+
+              return false;
+          }
+      }
+  </script>
 
 </body>
 
