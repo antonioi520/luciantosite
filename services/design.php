@@ -66,7 +66,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Benefits of a Digital Storefront</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Flyers</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Having a digital storefront is now more important than ever in an age of convenience-based shopping and technological growth.
@@ -79,7 +79,7 @@
                 </p>
             </div>
             <div class="col-lg-5 about-img">
-                <img src="../img/store/store.jpg" style="height:390px;width:600px;margin-top: 10px;">
+                <img src="../img/design/flyer.jpg" style="height:450px;width:600px;margin-top: 10px;">
             </div>
 
         </div>
@@ -89,11 +89,11 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/store/store2.jpg" style="height:450px;width:600px;margin-top: 10px;float:left;">
+                <img src="../img/design/cards.jpg" style="height:450px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Branding and Online Shopping</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Business Cards</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Branding is a critical part of any successful business, as it's how your customers can identify and recognize
