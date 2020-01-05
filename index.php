@@ -185,7 +185,7 @@
               <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
               <h4 class="service-title"><a href="">Mobile Development</a></h4>
               <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
-              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/mobiledev.php" class="services-box-button">Learn more</a></div>
 
           </div>
 
@@ -193,7 +193,7 @@
               <div class="service-icon"><i class="fa fa-database"></i></div>
               <h4 class="service-title"><a href="">Database Management</a></h4>
               <p class="service-description">Content management system for your website providing you access to create, read, update and delete data.</p>
-              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/database.php" class="services-box-button">Learn more</a></div>
 
           </div>
 
