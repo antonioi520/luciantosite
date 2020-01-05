@@ -56,7 +56,7 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
             </div>
 
-            <h1 data-content="Shop" style="font-weight: 600; margin-top:30px;"><span>Shop</span></h1>
+            <h1 data-content="Design" style="font-weight: 600; margin-top:30px;"><span>Design (Flyers/Business Cards/etc.)</span></h1>
         </div>
     </div>
 </section>
@@ -111,27 +111,6 @@
         </div>
 
         <br><br><br>
-
-        <!--div class="row">
-
-            <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Tools Used</h1>
-                <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
-                <p class="about-text">
-                    We use an array of tools depending on your wants and needs. The most basic being Google Analytics and Google Search Engine Console, giving a multitude of incredible, useful, and very specific tools. You can accomplish most of what you need with these basic tools and we can help you set it up, as well as help you understand what you are looking at.
-                </p>
-                <p class="about-text">
-                    Additionally, if you have any specific requests or needs that you would like to be met, we do offer the creation of in house tools for you to use so you can keep track of anything and everything without breaching any federal or state internet privacy laws.
-                </p>
-
-            </div>
-            <div class="col-lg-5 about-img">
-                <img src="../img/store/store3.jpg" style="height:390px;width:600px;margin-top: 10px;">
-            </div>
-
-        </div>
-
-        <br><br><br-->
 
         <div class="row">
 

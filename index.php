@@ -215,7 +215,7 @@
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
           <h4 class="service-title"><a href="">Flyers</a></h4>
           <p class="service-description">Beautifully made flyers to advertise your business and catch the eyes of your future customers.</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/design.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -223,7 +223,7 @@
           <div class="service-icon"><i class="fa fa-photo"></i></div>
           <h4 class="service-title"><a href="">Business Cards</a></h4>
           <p class="service-description">Sleek and modern business cards for customers or business partners that will be sure to impress!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/design.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
