@@ -69,13 +69,14 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Flyers</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Having a digital storefront is now more important than ever in an age of convenience-based shopping and technological growth.
-                    Online shopping allows you to draw in customers from around the globe interested in purchasing your goods that
-                    otherwise would not be able to, opening your business up to a larger consumer base and therefore, more profit.
+                    We will work alongside you and your company to execute your vision and deliver a product worth showing off to your customers.
+                    If your business is hosting an event or your venue is having a concert, then you likely will want to advertise this to your
+                    consumer-base in an eye-catching manner. We offer a variety of promotional materials for your business, such as flyers, banners,
+                    and more!
                 <p class="about-text">
-                    We offer a variety of options in regards to creating a digital marketplace that will take your website to the next level.
-                    We can work with you to create your vision from scratch, or integrate your previously existing storefront into your business's
-                    website seamlessly.
+                    Flyers and other similar promotional materials can help expand your business in a variety of ways. For example, they are effective
+                    methods of conveying important information that can catch a customer's eye and inform them efficiently. Your consumers live busy lives,
+                    so when advertising to them it is important to convey as much information to them as quickly as possible and in a simple-to-read manner.
                 </p>
             </div>
             <div class="col-lg-5 about-img">
@@ -89,22 +90,21 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/design/cards.jpg" style="height:450px;width:600px;margin-top: 10px;float:left;">
+                <img src="../img/design/cards.jpg" style="height:350px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Business Cards</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Branding is a critical part of any successful business, as it's how your customers can identify and recognize
-                    you in a sea of competitors. This can encompass a name, symbol, or design and it is generally representative of
-                    how you want consumers to perceive your company. Your logo defines you in the eyes of the public, but in order
-                    for your business to grow, you need a way to market your brand and have it seen by millions of eyes worldwide.
+                    Allow us to work with you and your company to design a business card that will be sure to impress! Business cards can say
+                    a lot about you as a business, so ensuring readability and a non-intrusive, but eye-catching design is essential in leaving
+                    a good first impression on whomever receives your business card.
                 </p>
                 <p class="about-text">
-                    This is where a digital storefront can really make a difference and help expand and grow your business. Consumers are
-                    always looking for ways to support their favorite brand, which is why adding an online marketplace to your website will
-                    give those customers ways to purchase merchandise or goods with your logo on it!
+                    Business cards can also be an effective method to advertise and establish your brand, as well as increasing recognition among potential
+                    clients or customers. An example of this would be including your brand logo and company motto on your business card will effectively strengthen
+                    the image of your business that you want to convey.
                 </p>
             </div>
 
