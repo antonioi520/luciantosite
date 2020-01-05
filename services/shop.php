@@ -69,10 +69,13 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Benefits of a Digital Storefront</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Web analytics help you better identify and understand your target audience, allowing you to improve bounce rate, and increase your ROI by focusing your resources appropriately. Web analytics are additionally useful to any business for determining market interest, segmentation of the market, analyzing market trends, and determining the behavior of website visitors.
-                </p>
+                    Having a digital storefront is now more important than ever in an age of convenience-based shopping and technological growth.
+                    Online shopping allows you to draw in customers from around the globe interested in purchasing your goods that
+                    otherwise would not be able to, opening your business up to a larger consumer base and therefore, more profit.
                 <p class="about-text">
-                    These statistics are determined and measured by how many viewers are visiting the website and from where, showing keywords your visitors are using to search products and services. Web analytics show the number of visitors arriving to the site via different sources like search engines, social media, ads, or emails, as well as the conversion rate through each of these sources.
+                    We offer a variety of options in regards to creating a digital marketplace that will take your website to the next level.
+                    We can work with you to create your vision from scratch, or integrate your previously existing storefront into your business's
+                    website seamlessly.
                 </p>
             </div>
             <div class="col-lg-5 about-img">
