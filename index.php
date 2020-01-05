@@ -208,7 +208,7 @@
               <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="service-title"><a href="">Shop</a></h4>
               <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
-              <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/shop.php" class="services-box-button">Learn more</a></div>
           </div>
 
         <div class="col-md-4 service-item" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
