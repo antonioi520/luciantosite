@@ -581,37 +581,42 @@
 
             <div>
               <i class="fa fa-envelope"></i>
-              <p>info@example.com</p>
+              <p>contact@Lucianto.com</p>
             </div>
 
           </div>
         </div>
 
-        <div class="col-md-5 col-md-push-2">
-          <div class="form">
-            <div id="sendmessage">Your message has been sent. Thank you!</div>
-            <div id="errormessage"></div>
-            <form action="" method="post" role="form" class="contactForm">
-              <div class="form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                <div class="validation"></div>
+          <div class="col-md-5 col-md-push-2" style="padding-bottom: 0.625em;">
+              <div class="form">
+                  <div id="sendmessage">Your message has been sent. Thank you!</div>
+                  <div id="errormessage">One or more of your entries appears to be invalid, please try again.</div>
+                  <form action="" method="post" role="form" class="contactForm" id="myForm">
+                      <div class="form-group">
+                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" minlength="2"  required />
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"  required />
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" minlength="4"  required />
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <textarea class="form-control" name="message" rows="5"  placeholder="Message" minlength="2" required></textarea>
+                          <div class="validation"></div>
+                      </div>
+                      <div class="form-group">
+                          <!-- captcha-->
+                          <div class="g-recaptcha" data-sitekey="6LfyMaoUAAAAAGI59fbDwBbcF9dY-4Yp8vEmbBsf" data-callback="recaptchaCallback"></div>
+                      </div>
+
+                      <div class="text-center"><button style="background-color: deepskyblue;" value="Submit" type="submit" onclick="recaptchaCallbackSubmit()">Submit</button></div>
+                  </form>
               </div>
-              <div class="form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                <div class="validation"></div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validation"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validation"></div>
-              </div>
-              <div class="text-center"><button type="submit">Disabled</button></div>
-            </form>
           </div>
-        </div>
 
       </div>
     </div>
@@ -638,6 +643,66 @@
   <script src="js/jquery-2.1.4.js"></script>
   <script src="js/main.js"></script>
 
+  <script type="text/javascript">
+      var frm = $('#myForm');
+      frm.submit(function (ev) {
+          $.ajax({
+              type: frm.attr('method'),
+              url: "send_email.php",
+              data: frm.serialize(),
+              success: function (data) {
+
+                  return false;
+              },
+              error: function()
+              {
+                  $("#errormessage").show();
+
+                  return false;
+              }
+          });
+
+          ev.preventDefault();
+      });
+  </script>
+  <script>
+      var invalidClassName = 'invalid'
+      var inputs = document.querySelectorAll('input, select, textarea')
+      inputs.forEach(function (input) {
+          // Add a css class on submit when the input is invalid.
+          input.addEventListener('invalid', function () {
+              input.classList.add(invalidClassName)
+          })
+
+          // Remove the class when the input becomes valid.
+          // 'input' will fire each time the user types
+          input.addEventListener('input', function () {
+              if (input.validity.valid) {
+                  input.classList.remove(invalidClassName)
+              }
+          })
+      })
+  </script>
+  <script>
+      function recaptchaCallbackSubmit(){
+          //var response = grecaptcha.getResponse().length;
+          if(grecaptcha.getResponse().length > 0){
+              //captcha validated and got response code
+              $("#sendmessage").show();
+              $("#errormessage").hide();
+              // $("#myForm")[0].reset();
+              grecaptcha.reset();
+              return false;
+          }else{
+              //$("#myForm")[0].reset();
+              grecaptcha.reset();
+              $("#errormessage").show();
+              $("#sendmessage").hide();
+
+              return false;
+          }
+      }
+  </script>
 
 </body>
 
