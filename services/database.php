@@ -124,7 +124,7 @@
 
             </div>
             <div class="col-lg-5 about-img">
-                <img src="../img/database/database2.png" style="height:390px;width:600px;margin-top: 10px;">
+                <img src="../img/database/database2.png" style="height:340px;width:600px;margin-top: 10px;">
             </div>
 
         </div>
