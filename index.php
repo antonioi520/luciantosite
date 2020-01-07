@@ -124,7 +124,8 @@
         <div class="col-md-12">
           <h3 class="section-title">About Us</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description" style="font-size: 16px;">We are a web development company based in Rhode Island ready to provide you with the highest quality services to take your business to the next level!</p>
+          <p class="section-description" style="font-size: 16px;">We are a web development company based in Rhode Island ready to provide you with the highest quality
+              services to take your business to the next level!</p>
         </div>
       </div>
     </div>
@@ -138,20 +139,27 @@
         <div class="col-md-6 about-content">
           <h2 class="about-title">We provide great services and ideas!</h2>
             <p class="about-text">
-                Lucianto Web Development is based in Rhode Island and we love working with the local businesses here, as well as international clients. If you would like to discuss how we can elevate your business together, please <a href="#contact"><u>contact us</u></a> below!
+                Lucianto Web Development is based in Rhode Island and we love working with the local businesses here, as well as international clients.
+                If you would like to discuss how we can elevate your business together, please <a href="#contact"><u>contact us</u></a> below!
             </p>
           <p class="about-text">
-            We at Lucianto can handle anything from basic to advanced web demands including database management and maintenance, as well as other business needs such as designing flyers or business cards.
+            We can expertly handle anything from basic to advanced web demands including database management and maintenance,
+              as well as other business needs such as designing flyers or business cards.
           </p>
           <p class="about-text">
-            We work hard to provide you with everything you need and meet any request. We have very customizable packages to guarantee that you only pay for what you need, without any of additional nonsense costs other companies may charge you. Check out how we determine costs further below!
+            We work hard to provide you with everything you need and meet any request. We have very customizable packages to
+              guarantee that you only pay for what you need, without any of additional nonsense costs other companies may charge you.
+              Check out how we determine costs further below!
           </p>
           <p class="about-text">
-                We strongly believe all forms of business, no matter how large or small, can benefit exceptionally from forming a web presence. Opening yourself to a user base of potentially millions is crucial in today's age. We are here to work with you to set and accomplish new goals. WORDING
+                We strongly believe all forms of business, no matter how large or small, can benefit exceptionally from forming
+              a web presence. Opening yourself to a user base of potentially millions is crucial in today's age. We are here to
+              work with you to set and accomplish new goals. WORDING
           </p>
 
           <p class="about-text">
-            You can expect great communication and hard work by very driven and passionate developers. Together we will create your product to help launch your business to the next level!
+            You can expect great communication and hard work by very driven and passionate developers. Together we will create your
+              product to help launch your business to the next level!
           </p>
         </div>
       </div>
