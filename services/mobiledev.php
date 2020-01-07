@@ -79,7 +79,7 @@
                 </p>
             </div>
             <div class="col-lg-5 about-img">
-                <img src="../img/webdevelopment/changelater.jpg" style="height:390px;width:600px;margin-top: 10px;">
+                <img src="../img/mobiledev/mobiledev.png" style="height:390px;width:600px;margin-top: 10px;">
             </div>
 
         </div>
@@ -89,7 +89,7 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
+                <img src="../img/mobiledev/mobiledev5.png" style="height:425px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
