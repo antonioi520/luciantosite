@@ -126,7 +126,7 @@
             </p>
         </div>
         <div class="col-lg-5 about-img">
-            <img src="../img/webdevelopment/changelater.jpg" style="height:390px;width:600px;margin-top: 10px;">
+            <img src="../img/webdevelopment/webdev.jpg" style="height:390px;width:600px;margin-top: 10px;">
         </div>
 
     </div>

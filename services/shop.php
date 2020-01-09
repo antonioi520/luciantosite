@@ -79,7 +79,7 @@
                 </p>
             </div>
             <div class="col-lg-5 about-img">
-                <img src="../img/store/store.jpg" style="height:390px;width:600px;margin-top: 10px;">
+                <img src="../img/store/store.png" style="height:390px;width:600px;margin-top: 10px;">
             </div>
 
         </div>
@@ -89,7 +89,7 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/store/store2.jpg" style="height:450px;width:600px;margin-top: 10px;float:left;">
+                <img src="../img/store/store2.png" style="height:450px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
