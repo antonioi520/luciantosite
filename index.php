@@ -287,6 +287,15 @@
 
       <div class="row">
 
+          <div class="col-md-3">
+              <a class="portfolio-item" style="background-image: url(img/elninjaport.png);object-fit: contain;background-position: 45%;" href="portfolio/elninja.php">
+                  <div class="details">
+                      <h4 style="color:white;">El Ninja Restaurant</h4>
+                      <span style="color:white;">Website built for a Latin/Japanese fusion sushi restaurant!</span>
+                  </div>
+              </a>
+          </div>
+
         <div class="col-md-3">
           <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
             <div class="details">
@@ -297,7 +306,7 @@
         </div>
 
         <div class="col-md-3">
-          <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="https://www.mialmarestaurant.com">
+          <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="portfolio/mialma.php">
             <div class="details">
               <h4 style="color:white;">Mi Alma Restaurant</h4>
               <span style="color:white;">Website built for a Latin fusion restaurant!</span>
@@ -305,7 +314,9 @@
           </a>
         </div>
 
-        <div class="col-md-3">
+
+
+        <!--<div class="col-md-3">
           <a class="portfolio-item" style="background-image: url(img/port4.jpg);"  data-toggle="modal" data-target="#myModal">
             <div class="details">
               <h4 style="color:white;">NUR Performance Flyer</h4>
@@ -315,9 +326,9 @@
           </a>
         </div>
 
-        <!-- Modal 1 -->
+         Modal 1
         <div id="myModal" class="modal fade" role="dialog" data-backdrop="false"  >
-            <!-- Modal content-->
+             Modal content
           <div class="modal-content">
               <div class="modal-body"  >
                 <img src="img/port4.jpg" style="height:700px;width:500px;display:block;margin:auto;">
@@ -326,7 +337,7 @@
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>
             </div>
-        </div>
+        </div>-->
 
         <div class="col-md-3">
           <a class="portfolio-item" style="background-image: url(img/port5.jpg);"  data-toggle="modal" data-target="#myModal2">
@@ -351,7 +362,7 @@
         </div>
 
         <div class="col-md-3">
-          <a class="portfolio-item" style="background-image: url(img/port1.png);" href="https://www.steamweight.com" target="_blank">
+          <a class="portfolio-item" style="background-image: url(img/port1.png);" href="portfolio/steamweight.php" target="_blank">
             <div class="details">
               <h4 style="color:white;">SteamWeight</h4>
               <span style="color:white;">Compact website for statistics on your steam account created via PHP!</span>
@@ -360,7 +371,7 @@
         </div>
 
         <div class="col-md-3">
-          <a class="portfolio-item" style="background-image: url(img/port2.png);" href="">
+          <a class="portfolio-item" style="background-image: url(img/port2.png);" href="portfolio/fightinggame.php">
             <div class="details">
               <h4 style="color:white;">Fighting Game</h4>
               <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#!</span>
@@ -401,7 +412,7 @@
       </div>
 
       <div style="text-align: center;">
-        <button><a href="#">View More</a></button>
+        <button><a href="portfolio.php">View More</a></button>
       </div>
     </div>
   </section>

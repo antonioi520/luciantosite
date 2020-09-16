@@ -1018,7 +1018,38 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: url(../img/portfolio/bomes/testbanner3.png) top center;
   background-size: auto;
 }
-
+#portfoliohero2 {
+  display: table;
+  width: 100%;
+  height: 100vh;
+  background: url(../img/mialmatest.PNG) top center;
+  background-position-y: -90px;
+  background-size: auto;
+}
+#portfoliohero3 {
+  display: table;
+  width: 100%;
+  height: 100%;
+  background: url(../img/steamweighttest.PNG) top center;
+  background-position-y: 50px;
+  background-size: auto;
+}
+#portfoliohero4 {
+  display: table;
+  width: 100%;
+  height: 100%;
+  //background: url() top center;
+  background-position-y: 50px;
+  background-size: auto;
+}
+#portfoliohero5 {
+  display: table;
+  width: 100%;
+  height: 100%;
+  background: url(../img/elninjabanner.jpg) top center;
+  background-position-y: -50px;
+  background-size: auto;
+}
 @media (min-width: 1024px) {
   #portfoliohero {
     //background-attachment: fixed;
@@ -1082,27 +1113,41 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 }
 
-#portfoliohero .rotating > .animated {
-  display: inline-block;
-}
 
-#portfoliohero .actions a {
-  font-family: "Raleway", sans-serif;
-  text-transform: uppercase;
-  font-weight: 500;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 20px;
-  border-radius: 2px;
-  transition: 0.5s;
-  margin: 10px;
-}
 
-#portfoliohero .btn-get-started {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
-  color: #fff;
+
+#portfoliohero2 .hero-logo img {
+  max-width: 100%;
+}
+#portfoliohero2 .hero-container {
+  background: rgba(0, 0, 0, 0);
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+#portfoliohero3 .hero-logo img {
+  max-width: 100%;
+}
+#portfoliohero3 .hero-container {
+  background: rgba(0, 0, 0, 0);
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+#portfoliohero5 .hero-logo img {
+  max-width: 100%;
+}
+#portfoliohero5 .hero-container {
+  background: rgba(0, 0, 0, 0);
+  display: table-cell;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
 }
 .visitSite{
   color:white;
