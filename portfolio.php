@@ -218,6 +218,46 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-3">
+                        <a class="portfolio-item" style="background-image: url(img/businesscard1.png);"  data-toggle="modal" data-target="#myModal3">
+                            <div class="details">
+                                <h4 style="color:white;">Stay Tuned / NUR Performance Business Card 1</h4>
+                                <span style="color:white;">Mock-up Business Card for performance shop!</span>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- Modal 3 -->
+                    <div id="myModal3" class="modal fade" role="dialog" data-backdrop="false"  >
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-body"  >
+                                <img src="img/businesscard1.png" style="height:700px;width:500px;display:block;margin:auto;">
+                            </div>
+                            <div class="modal-footer"  >
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <a class="portfolio-item" style="background-image: url(img/businesscard2.png);"  data-toggle="modal" data-target="#myModal4">
+                            <div class="details">
+                                <h4 style="color:white;">Stay Tuned / NUR Performance Business Card 2</h4>
+                                <span style="color:white;">Mock-up Business Card for performance shop!</span>
+                            </div>
+                        </a>
+                    </div>
+                    <!-- Modal 4 -->
+                    <div id="myModal4" class="modal fade" role="dialog" data-backdrop="false"  >
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                            <div class="modal-body"  >
+                                <img src="img/businesscard2.png" style="height:700px;width:500px;display:block;margin:auto;">
+                            </div>
+                            <div class="modal-footer"  >
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
             </div>
@@ -226,5 +266,21 @@
 </div>
 
 <br><br><br>
+<!-- Required JavaScript Libraries -->
+<script src="lib/jquery/jquery.min.js"></script>
+<script src="lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="lib/superfish/hoverIntent.js"></script>
+<script src="lib/superfish/superfish.min.js"></script>
+<script src="lib/morphext/morphext.min.js"></script>
+<script src="lib/wow/wow.min.js"></script>
+<script src="lib/stickyjs/sticky.js"></script>
+<script src="lib/easing/easing.js"></script>
+
+<!-- Template Specisifc Custom Javascript File -->
+<script src="js/custom.js"></script>
+
+<script src="contactform/contactform.js"></script>
+<script src="js/jquery-2.1.4.js"></script>
+<script src="js/main.js"></script>
 <?php include 'views/footer.php'; ?>
 </body>
