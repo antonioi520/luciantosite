@@ -165,7 +165,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <small class="text-muted">Last updated 3 months ago</small>
                     </div>
                 </div>
                 <div class="card ">
@@ -176,7 +176,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <small class="text-muted">Last updated 3 months ago</small>
                     </div>
                 </div>
                 <div class="card  ">
@@ -187,13 +187,13 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <small class="text-muted">Last updated 3 months ago</small>
                     </div>
                 </div>
             </div>
         </div>
 
-        <br><br><br>
+        <br><br id="content-desktop"><br id="content-desktop">
 
         <div class="row">
             <div class="col-md-8 about-content">
@@ -229,9 +229,7 @@
             </div>
             <div class="col-md-4"></div>
 
-
         </div>
-
     </div>
 </section>
 
