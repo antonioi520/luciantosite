@@ -642,7 +642,7 @@
   <script src="lib/stickyjs/sticky.js"></script>
   <script src="lib/easing/easing.js"></script>
 
-  <!-- Template Specisifc Custom Javascript File -->
+  <!-- Template Specific Custom Javascript File -->
   <script src="js/custom.js"></script>
 
   <script src="contactform/contactform.js"></script>

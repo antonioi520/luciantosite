@@ -12,6 +12,8 @@ Footer
                         <p class="footerLinks"><a href="/luciantosite/portfolio/elninja.php" style="text-align: center;font-size: small;">El Ninja Restaurant</a></p>
                         <p class="footerLinks"><a href="/luciantosite/portfolio/bomes.php" style="text-align: center;font-size: small;">The Bomes Theatre</a></p>
                     </div>
+                    <!--br>
+                    <strong style="text-align: center; font-size: 16px">Lucianto Development Team</strong-->
                     <br>
                     <a href="/index.php"><img src="/luciantosite/img/logo2.png" alt="logo" style="height:100px;width:100px;object-fit: cover;"></a>
                     <a href="/index.php"><img src="/luciantosite/img/lucianto.png" alt="logo" style="height:100px;width:200px;object-fit: contain;"></a>
