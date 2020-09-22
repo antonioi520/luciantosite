@@ -42,7 +42,8 @@
     <!-- Main Stylesheet File -->
     <link href="../css/style.css" rel="stylesheet">
 
-
+    <!-- Animated Bar Graph Stylesheet File -->
+    <link href="../css/animated-bar-graph.css" rel="stylesheet">
 
 </head>
 
@@ -59,7 +60,6 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
             </div>-->
 
-
             <br>
             <div style="text-align: center"><a href="https://www.elninja.net" target="_blank" class="visitSite">Visit Site</a></div>
         </div>
@@ -69,11 +69,93 @@
 <section id="about" style="padding-top: 40px;">
     <div class="container about-container wow fadeInUp">
         <div style="text-align: center"><h1 style="font-weight: bold;color:black;font-size: 50px;">El Ninja Restaurant</h1></div>
-        <div class="section-title-divider" style="width:50%;margin-bottom: 0px;"></div><br>
+        <div class="section-title-divider" style="width:50%;margin-bottom: 0px;"></div>
+
+        <br>
+
+        <!-- DESKTOP VERSION OF BAR GRAPH -->
+        <div id="content-desktop">
+            <div class="container" id="data-body">
+                <div style="text-align: center"><h1 style="color:black;font-size: 20px;">Website Page View Data</h1></div>
+                <div style="text-align: center"><h1 style="color:black;font-size: 11px;font-weight: 900;">Number of Pageviews per month since grand opening (June 16th, 2020)</h1></div>
+                <div id="data">
+                    <div id="data-title">
+                        <p style="font-weight: 700;">May 2020 &nbsp</p>
+                        <p style="font-weight: 700;">June 2020 &nbsp</p>
+                        <p style="font-weight: 700;">July 2020 &nbsp</p>
+                        <p style="font-weight: 700;">August 2020 &nbsp</p>
+                        <p style="font-weight: 700;">Sept. 2020 &nbsp</p>
+                    </div>
+
+                    <div class="graph-grid">
+                        <div class="bar percent-05"><div class="inner"></div></div>
+                        <div class="bar percent-20"><div class="inner"></div></div>
+                        <div class="bar percent-50"><div class="inner"></div></div>
+                        <div class="bar percent-75"><div class="inner"></div></div>
+                        <div class="bar percent-100"><div class="inner"></div></div>
+
+                        <div class="v-divider twenty-percent"></div>
+                        <div class="v-divider fifty-percent"></div>
+                        <div class="v-divider seventyfive-percent"></div>
+                        <div class="v-divider onehundred-percent"></div>
+
+                        <div id="scale">
+                            <p style="font-weight: 700;" class="zero">0</p>
+                            <p style="font-weight: 700;" class="one">20k</p>
+                            <p style="font-weight: 700;" class="two">40k</p>
+                            <p style="font-weight: 700;" class="three">60k</p>
+                            <p style="font-weight: 700;" class="four">80k</p>
+                            <p style="font-weight: 700;" class="five">100k+</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- MOBILE VERSION OF BAR GRAPH -->
+        <div id="content-mobile">
+            <div class="container" id="data-body-mobile">
+                <div style="text-align: center"><h1 style="color:black;font-size: 20px;">Website Page View Data</h1></div>
+                <div style="text-align: center"><h1 style="color:black;font-size: 11px;font-weight: 900;">Number of Pageviews per month since grand opening (June 16th, 2020)</h1></div>
+                <div id="data">
+                    <div id="data-title-mobile">
+                        <p style="font-weight: 700;">May 2020</p>
+                        <p style="font-weight: 700;">June 2020</p>
+                        <p style="font-weight: 700;">July 2020</p>
+                        <p style="font-weight: 700;">August 2020</p>
+                        <p style="font-weight: 700;">Sept. 2020</p>
+                    </div>
+
+                    <div class="graph-grid">
+                        <div class="bar-mobile percent-1"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-20"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-50"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-75"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-100"><div class="inner"></div></div>
+
+                        <div class="v-divider twenty-percent"></div>
+                        <div class="v-divider fifty-percent"></div>
+                        <div class="v-divider seventyfive-percent"></div>
+                        <div class="v-divider onehundred-percent"></div>
+
+                        <div id="scale">
+                            <p style="font-weight: 700;" class="zero">0</p>
+                            <p style="font-weight: 700;" class="one">20k</p>
+                            <p style="font-weight: 700;" class="two">40k</p>
+                            <p style="font-weight: 700;" class="three">60k</p>
+                            <p style="font-weight: 700;" class="four">80k</p>
+                            <p style="font-weight: 700;" class="five">100k+</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br><br><br>
+
         <div style="text-align: center"><h2 style="font-weight: bold;color:black;font-size: 20px;">Main Features</h2></div>
 
         <div class="row">
-
             <div class="card-deck">
                 <div class="card  ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Menu</h5>
@@ -108,16 +190,12 @@
                         <small class="text-muted">Last updated 3 mins ago</small>
                     </div>
                 </div>
-
             </div>
-
-
         </div>
 
         <br><br><br>
 
         <div class="row">
-
             <div class="col-md-8 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
@@ -139,9 +217,7 @@
                     HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
                 </p>
             </div>
-
         </div>
-
 
         <br><br><br>
 

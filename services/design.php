@@ -34,7 +34,7 @@
     <!-- Libraries CSS Files -->
     <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="../lib/animate-css/animate.min.css" rel="stylesheet">
-    <!--<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+    <!--<link rel="stylesheet" href="css/reset.css"--> <!-- CSS reset -->
     <link rel="stylesheet" href="../css/style2.css"> <!-- Resource style -->
     <script src="../js/modernizr.js"></script> <!-- Modernizr -->
 
