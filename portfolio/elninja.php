@@ -210,10 +210,18 @@
                 </p>
             </div>
             <div class="col-lg-1"></div>
-            <div class="col-lg-3 about-content">
+            <div id="content-desktop" class="col-lg-3 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text" style="text-align: center">
+                    HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
+                </p>
+            </div>
+            <br id="content-mobile">
+            <div id="content-mobile" class="col-lg-3 about-content">
+                <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
+                <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <p class="about-text" style="text-align: left">
                     HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
                 </p>
             </div>
