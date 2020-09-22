@@ -1180,3 +1180,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-right:5px;
   background-color: #03C4EB;
 }
+
+.flex-item {
+  justify-content: center;
+}
