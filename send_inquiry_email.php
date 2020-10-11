@@ -4,15 +4,11 @@
 <?php
 if(isset($_POST['fullname']) && isset($_POST['email']) && isset($_POST['budget']) && isset($_POST['companyname']) && isset($_POST['description']) && isset($_POST['webneeds'])) {
 
-    $email_to = "antonioi19961@gmail.com";
+    $email_to = "younglubackup@gmail.com";
     $email_subject = "Lucianto Inquiry Form - " . $_POST['companyname'];
 
     function died($error)
     {
-        //echo "We are very sorry, but there were error(s) found with the form you submitted. ";
-        //echo "These errors appear below.<br /><br />";
-        //echo $error . "<br /><br />";
-        //echo "Please fix before resubmitting.<br /><br />";
         die($error);
     }
 
@@ -61,7 +57,6 @@ if(isset($_POST['fullname']) && isset($_POST['email']) && isset($_POST['budget']
         died($error_message);
     }
 
-
     $email_message = "Inquiry Form details below.\n\n";
 
     function clean_string($string)
@@ -82,12 +77,7 @@ if(isset($_POST['fullname']) && isset($_POST['email']) && isset($_POST['budget']
         'Reply-To: ' . $email_host . "\r\n" .
         'X-Mailer: PHP/' . phpversion();
     @mail($email_to, $email_subject, $email_message, $headers);
-    header('Location: http://localhost:3000/purchase.php');
+    //header('Location: http://localhost:8080/purchase.php');
 }
 
 ?>
- 
-<!-- include success html here -->
-
- 
-
