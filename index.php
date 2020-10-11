@@ -239,7 +239,7 @@
           <div class="service-icon"><i class="fa fa-users"></i></div>
           <h4 class="service-title"><a href="">Customer Support</a></h4>
           <p class="service-description">Reach us via phone or email and expect a quick response as we help solve any problem you may have!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/support.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -247,7 +247,7 @@
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
           <p class="service-description">We will ensure your website is at peak performance, while making any additional changes you request!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/support.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
