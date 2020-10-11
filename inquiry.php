@@ -63,10 +63,10 @@
 <br><br><br>
 
 <section id="">
-    <div>
+
         <div class="container">
-            <div class="form">
-            <form action="" method="post" role="form" class="pform" id="myForm">
+
+            <form action="send_inquiry_email.php" method="post" role="form" class="pform" id="myForm">
 
                 <div class="col-md-1"></div>
                 <div class="row">
@@ -79,7 +79,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="fullname" class="payformlabel">Full Name</label><br/>
-                    <input type="text" id="fullname" name="fullname" placeholder="Your name.." class="form-control payform">
+                    <input type="text" id="fullname" name="fullname" placeholder="Your name.." class="form-control payform" required>
                 </div>     
                 </div>
 
@@ -87,7 +87,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="fullname" class="payformlabel">Email</label><br/>
-                    <input type="email" id="email" name="email" placeholder="Your contact email.." class="form-control payform">
+                    <input type="email" id="email" name="email" placeholder="Your contact email.." class="form-control payform" required>
                 </div>     
                 </div>
 
@@ -95,7 +95,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv"> 
                     <label for="budget" class="payformlabel">Budget</label><br/>
-                    <input type="number" id="budget" name="budget" placeholder="Budget.." class="form-control payform">
+                    <input type="number" id="budget" name="budget" placeholder="Budget.." class="form-control payform" required>
                 </div>
                 </div>
                 
@@ -104,7 +104,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="companyname" class="payformlabel">Company Name</label><br/>
-                    <input type="text" id="companyname" name="companyname" placeholder="Company name.." class="form-control payform">
+                    <input type="text" id="companyname" name="companyname" placeholder="Company name.." class="form-control payform" required>
                 </div>
                 </div>
 
@@ -112,7 +112,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="description" class="payformlabel">Company Description</label><br/>
-                    <textarea id="description" name="description" placeholder="Company Description.." style="height:100px" class="form-control payform"></textarea>
+                    <textarea id="description" name="description" placeholder="Company Description.." style="height:100px" class="form-control payform" required></textarea>
                 </div>
                 </div>
 
@@ -120,24 +120,23 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="webneeds" class="payformlabel">Website Needs</label><br/>
-                    <textarea id="webneeds" name="webneeds" placeholder="Website needs..(i.e store, gallery, etc.)" style="height:100px" class="form-control payform"></textarea>
+                    <textarea id="webneeds" name="webneeds" placeholder="Website needs..(i.e store, gallery, etc.)" style="height:100px" class="form-control payform" required></textarea>
                 </div>
                 </div>
 
                 <div class="col-md-1"></div>
                 <div class="row">
                 <div class="col-md-9 paydiv">
-                    <input type="submit" value="Submit" class="form-control" style="background-color:#03C4EB;color:white;">
+                    <input type="submit" name="submit" value="Submit" class="form-control" style="background-color:#03C4EB;color:white;">
                 </div>
                 </div>
             </form>
-            </div>
+
         </div>
-    </div>
 </section>
 <br><br><br>
 <?php include 'views/footer.php'; ?>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     var frm = $('#myForm');
     frm.submit(function (ev) {
         $.ajax({
@@ -175,6 +174,6 @@
             }
         })
     })
-</script>
+</script> -->
 
 </body>
