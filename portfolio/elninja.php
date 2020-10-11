@@ -88,13 +88,14 @@
 
                     <div class="graph-grid">
                         <div class="bar percent-0"><div class="inner"></div></div>
-                        <div class="bar percent-50"><div class="inner"></div></div>
-                        <div class="bar percent-75"><div class="inner"></div></div>
+                        <div class="bar percent-40"><div class="inner"></div></div>
+                        <div class="bar percent-80"><div class="inner"></div></div>
                         <div class="bar percent-100"><div class="inner"></div></div>
 
                         <div class="v-divider twenty-percent"></div>
-                        <div class="v-divider fifty-percent"></div>
-                        <div class="v-divider seventyfive-percent"></div>
+                        <div class="v-divider forty-percent"></div>
+                        <div class="v-divider sixty-percent"></div>
+                        <div class="v-divider eighty-percent"></div>
                         <div class="v-divider onehundred-percent"></div>
 
                         <div id="scale">
