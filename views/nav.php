@@ -13,8 +13,7 @@
                 <li><a href="../index.php#about">About Us</a></li>
                 <li><a href="../index.php#services">Services</a></li>
                 <li><a href="../index.php#portfolio">Portfolio</a></li>
-                <li><a href="../index.php#testimonials">Testimonials</a></li>
-                <li><a href="../index.php#team">Team</a></li>
+                <li><a href="../index.php#testimonials">Team</a></li>
                 <li><a href="store.html">Store</a></li>
                 <!---<li class="menu-has-children"><a href="">Drop Down</a>
                   <ul>
@@ -34,6 +33,8 @@
                   </ul>
                 </li>-->
                 <li><a href="#contact">Contact Us</a></li>
+                <li><a href="inquiry.php" class="navpurchasebutton">Purchase</a></li>
+
             </ul>
         </nav>
         <!-- #nav-menu-container -->

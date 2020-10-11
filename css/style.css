@@ -1210,3 +1210,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 .paydiv{
   padding-right: 0px;
 }
+.navpurchasebutton{
+  background-color:#03C4EB;
+}
+.navpurchasebutton:hover{
+  color:white !important; 
+}

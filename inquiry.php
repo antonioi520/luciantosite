@@ -29,22 +29,22 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
 
     <!-- Bootstrap CSS File -->
-    <link href="../lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Libraries CSS Files -->
-    <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../lib/animate-css/animate.min.css" rel="stylesheet">
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate-css/animate.min.css" rel="stylesheet">
     <!--<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
-    <link rel="stylesheet" href="../css/style2.css"> <!-- Resource style -->
-    <script src="../js/modernizr.js"></script> <!-- Modernizr -->
+    <link rel="stylesheet" href="css/style2.css"> <!-- Resource style -->
+    <script src="js/modernizr.js"></script> <!-- Modernizr -->
 
     <!-- Main Stylesheet File -->
-    <link href="../css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
 </head>
 
 <body class="paybody">
-<?php include '../views/nav.php' ?>
+<?php include 'views/nav.php' ?>
 
 <section class="cd-intro" id="hero" style="height:430px;" >
     <div class="hero-container cd-intro-content mask">
@@ -66,7 +66,7 @@
     <div >
         <div class="container">
             <div class="">
-            <form action="" class="pform">
+            <form method="post" action="send_inquiry_email.php" class="pform">
 
                 <div class="col-md-1"></div>
                 <div class="row">
@@ -79,7 +79,15 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="fullname" class="payformlabel">Full Name</label><br/>
-                    <input type="text" id="fname" name="fullname" placeholder="Your name.." class="form-control payform">
+                    <input type="text" id="fullname" name="fullname" placeholder="Your name.." class="form-control payform">
+                </div>     
+                </div>
+
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                    <label for="fullname" class="payformlabel">Email</label><br/>
+                    <input type="email" id="email" name="email" placeholder="Your contact email.." class="form-control payform">
                 </div>     
                 </div>
 
@@ -87,7 +95,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv"> 
                     <label for="budget" class="payformlabel">Budget</label><br/>
-                    <input type="text" id="budget" name="budget" placeholder="Budget.." class="form-control payform">
+                    <input type="number" id="budget" name="budget" placeholder="Budget.." class="form-control payform">
                 </div>
                 </div>
                 
@@ -96,7 +104,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="companyname" class="payformlabel">Company Name</label><br/>
-                    <input type="text" id="cname" name="companyname" placeholder="Company name.." class="form-control payform">
+                    <input type="text" id="companyname" name="companyname" placeholder="Company name.." class="form-control payform">
                 </div>
                 </div>
 
@@ -112,7 +120,7 @@
                 <div class="row">
                 <div class="col-md-9 paydiv">
                     <label for="webneeds" class="payformlabel">Website Needs</label><br/>
-                    <textarea id="subject" name="webneeds" placeholder="Website needs..(i.e store, gallery, etc.)" style="height:100px" class="form-control payform"></textarea>
+                    <textarea id="webneeds" name="webneeds" placeholder="Website needs..(i.e store, gallery, etc.)" style="height:100px" class="form-control payform"></textarea>
                 </div>
                 </div>
 
@@ -128,5 +136,5 @@
     </div>
 </section>
 <br><br><br>
-<?php include '../views/footer.php'; ?>
+<?php include 'views/footer.php'; ?>
 </body>

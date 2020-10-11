@@ -87,8 +87,7 @@
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#testimonials">Testimonials</a></li>
-          <li><a href="#team">Team</a></li>
+          <li><a href="#testimonials">Team</a></li>
           <li><a href="store.html">Store</a></li>
           <!---<li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
@@ -108,6 +107,7 @@
             </ul>
           </li>-->
           <li><a href="#contact">Contact Us</a></li>
+          <li><a href="inquiry.php" class="navpurchasebutton">Purchase</a></li>
         </ul>
       </nav>
       <!-- #nav-menu-container -->
@@ -413,7 +413,7 @@
   </section>
 
   <!--==========================
-  Testimonials Section
+  team Section
   ============================-->
   <section id="testimonials">
     <div class="container wow fadeInUp">
