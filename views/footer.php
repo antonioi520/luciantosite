@@ -7,16 +7,16 @@ Footer
             <div class="col-md-12">
                 <center>
                     <div class="d-flex justify-content-center">
-                        <p class="footerLinks"><a href="/luciantosite/index.php" style="text-align: center;font-size: small;">Home</a></p>
-                        <p class="footerLinks"><a href="/luciantosite/portfolio.php" style="text-align: center;font-size: small;">Portfolio</a></p>
-                        <p class="footerLinks"><a href="/luciantosite/portfolio/elninja.php" style="text-align: center;font-size: small;">El Ninja Restaurant</a></p>
-                        <p class="footerLinks"><a href="/luciantosite/portfolio/bomes.php" style="text-align: center;font-size: small;">The Bomes Theatre</a></p>
+                        <p class="footerLinks"><a href="index.php" style="text-align: center;font-size: small;">Home</a></p>
+                        <p class="footerLinks"><a href="portfolio.php" style="text-align: center;font-size: small;">Portfolio</a></p>
+                        <p class="footerLinks"><a href="portfolio/elninja.php" style="text-align: center;font-size: small;">El Ninja Restaurant</a></p>
+                        <p class="footerLinks"><a href="portfolio/bomes.php" style="text-align: center;font-size: small;">The Bomes Theatre</a></p>
                     </div>
                     <!--br>
                     <strong style="text-align: center; font-size: 16px">Lucianto Development Team</strong-->
                     <br>
-                    <a href="/index.php"><img src="/luciantosite/img/logo2.png" alt="logo" style="height:100px;width:100px;object-fit: cover;"></a>
-                    <a href="/index.php"><img src="/luciantosite/img/lucianto.png" alt="logo" style="height:100px;width:200px;object-fit: contain;"></a>
+                    <a href="/index.php"><img src="../img/logo2.png" alt="logo" style="height:100px;width:100px;object-fit: cover;"></a>
+                    <a href="/index.php"><img src="../img/lucianto.png" alt="logo" style="height:100px;width:200px;object-fit: contain;"></a>
                 </center>
                 <br>
                 <div class="copyright">
