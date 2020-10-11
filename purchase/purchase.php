@@ -43,7 +43,7 @@
 
 </head>
 
-<body>
+<body class="paybody">
 <?php include '../views/nav.php' ?>
 
 <section class="cd-intro" id="hero" style="height:430px;" >
@@ -62,31 +62,69 @@
 </section>
 <br><br><br>
 
-<section id="contact">
-    <div class="form">
-<form>
-    <div class="col-lg-4"></div>
-    <div class="col-lg-2">
-        <div class="row">
-            <input type="text" id="fname" name="firstname" placeholder="Full Name.." style="width:300px;">
-        </div><br>
-        <div class="row">
-            <input type="text" id="fname" name="firstname" placeholder="Company Name.." style="width:300px;">
-        </div><br>
-        <div class="row">
-            <input type="textarea" id="fname" name="firstname" placeholder="Company Description" style="height:100px; width:300px;">
-        </div>
-    </div>
-    <div class="col-lg-2">
-         <div class="row">
-            <input type="number" id="fname" name="firstname" placeholder="Budget.." style="width:300px;">
-        </div><br>
-        <div class="row">
-            <input type="textarea" id="fname" name="firstname" placeholder="Website needs..(i.e store, gallery, etc.)" style="height:150px;width:300px;">
-        </div>
-    </div>
+<section id="">
+    <div >
+        <div class="container">
+            <div class="">
+            <form action="" class="pform">
 
-</form>
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                    <h2 style="text-align:center">Send Inquiry</h2>
+                </div>     
+                </div>
+
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                    <label for="fullname" class="payformlabel">Full Name</label><br/>
+                    <input type="text" id="fname" name="fullname" placeholder="Your name.." class="form-control payform">
+                </div>     
+                </div>
+
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv"> 
+                    <label for="budget" class="payformlabel">Budget</label><br/>
+                    <input type="text" id="budget" name="budget" placeholder="Budget.." class="form-control payform">
+                </div>
+                </div>
+                
+                
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                    <label for="companyname" class="payformlabel">Company Name</label><br/>
+                    <input type="text" id="cname" name="companyname" placeholder="Company name.." class="form-control payform">
+                </div>
+                </div>
+
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                    <label for="description" class="payformlabel">Company Description</label><br/>
+                    <textarea id="description" name="description" placeholder="Company Description.." style="height:100px" class="form-control payform"></textarea>
+                </div>
+                </div>
+
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                    <label for="webneeds" class="payformlabel">Website Needs</label><br/>
+                    <textarea id="subject" name="webneeds" placeholder="Website needs..(i.e store, gallery, etc.)" style="height:100px" class="form-control payform"></textarea>
+                </div>
+                </div>
+
+                <div class="col-md-1"></div>
+                <div class="row">
+                <div class="col-md-9 paydiv">
+                <input type="submit" value="Submit" class="form-control" style="background-color:#03C4EB;color:white;">
+                </div>
+                </div>
+            </form>
+            </div>
+        </div>
     </div>
 </section>
 <br><br><br>
