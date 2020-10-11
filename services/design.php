@@ -23,7 +23,7 @@
     <meta name="twitter:image" content="">
 
     <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
-    <link href="img/favicon.ico" rel="shortcut icon">
+    <link href="/luciantosite/img/favicon.ico" rel="shortcut icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
@@ -34,7 +34,7 @@
     <!-- Libraries CSS Files -->
     <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="../lib/animate-css/animate.min.css" rel="stylesheet">
-    <!--<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+    <!--<link rel="stylesheet" href="css/reset.css"--> <!-- CSS reset -->
     <link rel="stylesheet" href="../css/style2.css"> <!-- Resource style -->
     <script src="../js/modernizr.js"></script> <!-- Modernizr -->
 

@@ -1,0 +1,364 @@
+
+#content-desktop {
+    display: block;
+}
+
+#content-mobile {
+    display: none;
+}
+
+@media screen and (max-width: 414px) {
+    #content-desktop {
+        display: none;
+    }
+    #content-mobile {
+        display: block;
+    }
+}
+
+@-webkit-keyframes grow-100 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 0%;
+    }
+}
+@-webkit-keyframes grow-90 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 10%;
+    }
+}
+@-webkit-keyframes grow-80 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 20%;
+    }
+}
+@-webkit-keyframes grow-75 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 25%;
+    }
+}
+@-webkit-keyframes grow-60 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 40%;
+    }
+}
+@-webkit-keyframes grow-50 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 50%;
+    }
+}
+@-webkit-keyframes grow-40 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 60%;
+    }
+}
+@-webkit-keyframes grow-25 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 75%;
+    }
+}
+@-webkit-keyframes grow-20 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 80%;
+    }
+}
+@-webkit-keyframes grow-15 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 85%;
+    }
+}
+@-webkit-keyframes grow-10 {
+    from {
+        right: 100%;
+    }
+    to {
+        right: 90%;
+    }
+}
+@-webkit-keyframes grow-3 {
+    from {
+        right: 0%;
+    }
+    to {
+        right: 97%;
+    }
+}
+@-webkit-keyframes grow-1 {
+    from {
+        right: 0%;
+    }
+    to {
+        right: 99%;
+    }
+}
+@-webkit-keyframes grow-05 {
+    from {
+        right: 0%;
+    }
+    to {
+        right: 99.5%;
+    }
+}
+@-webkit-keyframes grow-0 {
+    from {
+        right: 0%;
+    }
+    to {
+        right: 100%;
+    }
+}
+
+#data {
+    margin: 0;
+    position: relative;
+    width: 98%;
+}
+
+#data-body {
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+#data-body-mobile {
+    font-size: 0.68em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#data-title {
+    float: left;
+    text-align: right;
+    width: 19%;
+    padding-top: 5px;
+}
+
+#data-title-mobile {
+    float: left;
+    text-align: right;
+    width: 19%;
+    padding-top: 15px;
+}
+
+#scale {
+    padding-bottom: 30px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -30px;
+}
+#scale-mobile {
+    padding-bottom: 30px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -30px;
+}
+
+#scale p {
+    position: absolute;
+    bottom: -15px;
+    left: -0.3%;
+}
+
+#scale p.one {
+    left: 19%;
+}
+#scale p.two {
+    left: 39%;
+}
+#scale p.three {
+    left: 59%;
+}
+#scale p.four {
+    left: 79%;
+}
+#scale p.five {
+    left: 99%;
+}
+
+.graph-grid {
+    border-left: 1px dotted #03C4EB;
+    border-bottom: 1px dotted #03C4EB;
+    float: left;
+    padding: 10px 0;
+    position: relative;
+    width: 65%;
+}
+
+.bar {
+    float: left;
+    height: 17.5px;
+    margin-bottom: 20px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.bar-mobile {
+    float: left;
+    height: 20px;
+    margin-bottom: 19px;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.bar .inner, .bar-mobile .inner {
+    background-color: #03C4EB;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+}
+.bar.percent-100 .inner, .bar-mobile.percent-100 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-100;
+    right: 0%;
+}
+.bar.percent-90 .inner, .bar-mobile.percent-90 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-90;
+    right: 10%;
+}
+.bar.percent-80 .inner, .bar.percent-80 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-80;
+    right: 20%;
+}
+.bar.percent-75 .inner, .bar-mobile.percent-75 .inner {
+    -webkit-animation-duration: 3s;
+    -webkit-animation-name: grow-75;
+    right: 25%;
+}
+.bar.percent-60 .inner, .bar-mobile.percent-60 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-60;
+    right: 40%;
+}
+.bar.percent-50 .inner, .bar-mobile.percent-50 .inner {
+    -webkit-animation-duration: 5s;
+    -webkit-animation-name: grow-50;
+    right: 50%;
+}
+.bar.percent-40 .inner, .bar-mobile.percent-40 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-40;
+    right: 60%;
+}
+.bar.percent-25 .inner, .bar-mobile.percent-25 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-25;
+    right: 75%;
+}
+.bar.percent-20 .inner, .bar-mobile.percent-20 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-20;
+    right: 80%;
+}
+.bar.percent-15 .inner, .bar-mobile.percent-15 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-15;
+    right: 85%;
+}
+.bar.percent-10 .inner, .bar-mobile.percent-10 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-10;
+    right: 90%;
+}
+.bar.percent-3 .inner, .bar-mobile.percent-3 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-3;
+    right: 97%;
+}
+.bar.percent-1 .inner, .bar-mobile.percent-1 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-1;
+    right: 99%;
+}
+.bar.percent-05 .inner, .bar-mobile.percent-05 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-05;
+    right: 99.5%;
+}
+.bar.percent-0 .inner, .bar-mobile.percent-0 .inner {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-name: grow-0;
+    right: 100%;
+}
+
+.v-divider {
+    border-right: 1px dotted #40acfe;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 0;
+}
+.v-divider.one-percent {
+    right: 99%;
+}
+.v-divider.three-percent {
+    right: 97%;
+}
+.v-divider.ten-percent {
+    right: 90%;
+}
+.v-divider.fifteen-percent {
+    right: 85%;
+}
+.v-divider.twenty-percent {
+    right: 80%;
+}
+.v-divider.twentyfive-percent {
+    right: 75%;
+}
+.v-divider.forty-percent {
+    right: 60%;
+}
+.v-divider.fifty-percent {
+    right: 50%;
+}
+.v-divider.sixty-percent {
+    right: 40%;
+}
+.v-divider.seventyfive-percent {
+    right: 25%;
+}
+.v-divider.eighty-percent {
+    right: 20%;
+}
+.v-divider.ninety-percent {
+    right: 10%;
+}
+.v-divider.onehundred-percent {
+    right: 0;
+}

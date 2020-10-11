@@ -76,7 +76,6 @@ if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) &
 ?>
  
 <!-- include success html here -->
- 
-Your message has been sent, thank you!
+
  
 

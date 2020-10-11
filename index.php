@@ -256,7 +256,7 @@
   </section>
 
   <!--==========================
-  Subscrbe Section
+  Subscribe Section
   ============================-->
   <section id="subscribe">
     <div class="container wow fadeInUp">
@@ -313,8 +313,6 @@
             </div>
           </a>
         </div>
-
-
 
         <!--<div class="col-md-3">
           <a class="portfolio-item" style="background-image: url(img/port4.jpg);"  data-toggle="modal" data-target="#myModal">
@@ -388,8 +386,6 @@
           <!--</a>-->
         <!--</div>-->
 
-
-
         <div class="col-md-3">
           <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="">
             <div class="details">
@@ -398,7 +394,6 @@
             </div>
           </a>
         </div>
-
 
         <div class="col-md-3">
           <a class="portfolio-item" style="background-image: url(img/sitehere.png);" href="">
@@ -448,7 +443,7 @@
       <div class="row">
         <div class="col-md-9">
           <div class="quote" style="font-style:normal">
-            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming from New England Institute of Technology specializing in services such as C#, JavaScript, and Photoshop, including other experience with technologies such as MonoGame and XNA4.</p>
+            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming from New England Institute of Technology specializing in services such as C#, JavaScript, PHP and Photoshop, including other experience with technologies such as MonoGame and XNA4.</p>
           </div>
         </div>
         <div class="col-md-3">
@@ -524,7 +519,6 @@
     <!--</div>-->
   <!--</section>-->
 
-
   <!--==========================
   Pricing Section
   ============================-->
@@ -540,8 +534,6 @@
     </div>
     <div class="container about-container wow fadeInUp">
       <div class="row">
-
-
 
         <div >
           <div style="margin:10px;">
@@ -596,7 +588,7 @@
 
             <div>
               <i class="fa fa-envelope"></i>
-              <p>contact@Lucianto.com</p>
+              <p>Contact@Lucianto.com</p>
             </div>
 
           </div>
@@ -632,7 +624,6 @@
                   </form>
               </div>
           </div>
-
       </div>
     </div>
   </section>
@@ -651,7 +642,7 @@
   <script src="lib/stickyjs/sticky.js"></script>
   <script src="lib/easing/easing.js"></script>
 
-  <!-- Template Specisifc Custom Javascript File -->
+  <!-- Template Specific Custom Javascript File -->
   <script src="js/custom.js"></script>
 
   <script src="contactform/contactform.js"></script>
