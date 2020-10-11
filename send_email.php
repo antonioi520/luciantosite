@@ -4,7 +4,7 @@
 <?php
 if(isset($_POST['email']) && isset($_POST['name']) && isset($_POST['subject']) && isset($_POST['message'])) {
 
-    $email_to = "younglubackup@gmail.com";
+    $email_to = "antonioi19961@gmail.com";
     $email_subject = "Lucianto Contact Form - " . $_POST['subject'];
 
     function died($error)
