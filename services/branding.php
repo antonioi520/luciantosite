@@ -34,7 +34,7 @@
     <!-- Libraries CSS Files -->
     <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="../lib/animate-css/animate.min.css" rel="stylesheet">
-    <!--<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+    <!--<link rel="stylesheet" href="css/reset.css"--> <!-- CSS reset -->
     <link rel="stylesheet" href="../css/style2.css"> <!-- Resource style -->
     <script src="../js/modernizr.js"></script> <!-- Modernizr -->
 
@@ -56,7 +56,7 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
             </div>
 
-            <h1 data-content="Mobile Development" style="font-weight: 600; margin-top:30px;"><span>Mobile Development</span></h1>
+            <h1 data-content="Branding" style="font-weight: 600; margin-top:30px;"><span>Branding</span></h1>
         </div>
     </div>
 </section>
@@ -66,20 +66,21 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Why have a mobile site?</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Flyers</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Having a website or application that works on a majority of mobile devices is a huge priority in this day and age for all businesses. Mobile traffic accounted for approximately 51% of all website traffic in 2019 with approximately 50% of consumers say they won’t return to a website if it doesn’t load properly on their mobile phone. This is a huge consumer base that you could potentially be missing out on.
-                </p>
+                    We will work alongside you and your company to execute your vision and deliver a product worth showing off to your customers.
+                    If your business is hosting an event or your venue is having a concert, then you likely will want to advertise this to your
+                    consumer-base in an eye-catching manner. We offer a variety of promotional materials for your business, such as flyers, banners,
+                    and more!
                 <p class="about-text">
-                    Mobile applications make it easier to connect with your customers and is one of the best marketing tools to develop your business. Mobile applications allow your customers to have all your businesses or product's information right at their fingertips.
-                </p>
-                <p class="about-text">
-                    Due to the accessibility from a large number of platforms, you can start reaching a much broader market and increase your engagement among customers all over the world.
+                    Flyers and other similar promotional materials can help expand your business in a variety of ways. For example, they are effective
+                    methods of conveying important information that can catch a customer's eye and inform them efficiently. Your consumers live busy lives,
+                    so when advertising to them it is important to convey as much information to them as quickly as possible and in a simple-to-read manner.
                 </p>
             </div>
             <div class="col-lg-5 about-img">
-                <img src="../img/mobiledev/mobiledev.png" style="height:390px;width:600px;margin-top: 10px;">
+                <img src="../img/design/flyer.jpg" style="height:450px;width:600px;margin-top: 10px;">
             </div>
 
         </div>
@@ -89,27 +90,27 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/mobiledev/mobiledev5.png" style="height:425px;width:600px;margin-top: 10px;float:left;">
+                <img src="../img/design/cards.jpg" style="height:350px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">How it's done</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Business Cards</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    In our own released products, we have noticed swings of up to 80% of all traffic coming from consumers viewing from their mobile devices. Without a functional mobile website or application, this is a large percentage of our customers businesses that they could potentially be losing out on.
+                    Allow us to work with you and your company to design a business card that will be sure to impress! Business cards can say
+                    a lot about you as a business, so ensuring readability and a non-intrusive, but eye-catching design is essential in leaving
+                    a good first impression on whomever receives your business card.
                 </p>
                 <p class="about-text">
-                    This is why we take the time to meticulously design our pages to scale, look good, and be functional on as many devices as possible in order to give you the largest reach for your business.
-                </p>
-                <p class="about-text">
-                    This is done by first detecting the users screen size and then dynamically changing the layout of the page accordingly, giving the user the most optimal display. Due to the large variety now in mobile phones, companies will overlook less common devices which can result in users not being able to receive a viewable page. We avoid this by diligently testing our pages on every resolution and changing layouts where necessary.
+                    Business cards can also be an effective method to advertise and establish your brand, as well as increasing recognition among potential
+                    clients or customers. An example of this would be including your brand logo and company motto on your business card will effectively strengthen
+                    the image of your business that you want to convey.
                 </p>
             </div>
 
         </div>
 
         <br><br><br>
-
 
         <div class="row">
 

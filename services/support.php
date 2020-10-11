@@ -56,7 +56,7 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
             </div>
 
-            <h1 data-content="Design" style="font-weight: 600; margin-top:30px;"><span>Design (Flyers/Business Cards/etc.)</span></h1>
+            <h1 data-content="Customer Support" style="font-weight: 600; margin-top:30px;"><span>Customer Support</span></h1>
         </div>
     </div>
 </section>
@@ -66,21 +66,16 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Flyers</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Customer Service</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    We will work alongside you and your company to execute your vision and deliver a product worth showing off to your customers.
-                    If your business is hosting an event or your venue is having a concert, then you likely will want to advertise this to your
-                    consumer-base in an eye-catching manner. We offer a variety of promotional materials for your business, such as flyers, banners,
-                    and more!
+                    We are always around and available to fulfill any of your requests! Whether it is a question, a bug, or a new feature request, you can contact us at any time and expect a quick fix and response!
                 <p class="about-text">
-                    Flyers and other similar promotional materials can help expand your business in a variety of ways. For example, they are effective
-                    methods of conveying important information that can catch a customer's eye and inform them efficiently. Your consumers live busy lives,
-                    so when advertising to them it is important to convey as much information to them as quickly as possible and in a simple-to-read manner.
+                    We offer various contact options for what works best for you, including phone and email. We take pride in the loyalty we have between us and the businesses that choose to work with us and diligently work to ensure that this experience is as easy as possible for you. 
                 </p>
             </div>
             <div class="col-lg-5 about-img">
-                <img src="../img/design/flyer.jpg" style="height:450px;width:600px;margin-top: 10px;">
+                <img src="../img/service2.jpg" style="height:350px;width:600px;">
             </div>
 
         </div>
@@ -90,22 +85,20 @@
         <div class="row">
 
             <div class="col-lg-5 about-img">
-                <img src="../img/design/cards.jpg" style="height:350px;width:600px;margin-top: 10px;float:left;">
+                <img src="../img/maintenance.jpg" style="height:370px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Business Cards</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;">Maintenance</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Allow us to work with you and your company to design a business card that will be sure to impress! Business cards can say
-                    a lot about you as a business, so ensuring readability and a non-intrusive, but eye-catching design is essential in leaving
-                    a good first impression on whomever receives your business card.
+                    Every second counts, the slower your website loads, the more likely a user is to leave. That is why we routinely have performance checks to make sure that your site is running at the fastest speed possible. 
                 </p>
                 <p class="about-text">
-                    Business cards can also be an effective method to advertise and establish your brand, as well as increasing recognition among potential
-                    clients or customers. An example of this would be including your brand logo and company motto on your business card will effectively strengthen
-                    the image of your business that you want to convey.
+                    We generate detailed audit logs on all our changes, whether web based or server based, as well as create routinely backups and monitor that all our technology is up to date. Any issue that pops up will be immediately corrected.
                 </p>
+                <p class="about-text">
+                Regularly updating and maintaining your site is crucial to ensuring that your site is running at full capacity. Just like cars, websites require maintenance to operate properly. Properly maintaining your site helps to ensure site security, increase the number of new visitors, boost returning traffic, and more.                </p>
             </div>
 
         </div>
@@ -116,7 +109,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="#" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 

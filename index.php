@@ -87,8 +87,7 @@
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#testimonials">Testimonials</a></li>
-          <li><a href="#team">Team</a></li>
+          <li><a href="#testimonials">Team</a></li>
           <li><a href="store.html">Store</a></li>
           <!---<li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
@@ -108,6 +107,7 @@
             </ul>
           </li>-->
           <li><a href="#contact">Contact Us</a></li>
+          <li><a href="inquiry.php" class="navpurchasebutton">Hire Us</a></li>
         </ul>
       </nav>
       <!-- #nav-menu-container -->
@@ -124,7 +124,7 @@
         <div class="col-md-12">
           <h3 class="section-title">About Us</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description" style="font-size: 16px;">We are a web development company based in Rhode Island ready to provide you with the highest quality
+          <p class="section-description" style="font-size: 16px;">Lucianto Web Development is a Rhode Island based web design and development company always ready to provide you with the highest quality
               services to take your business to the next level!</p>
         </div>
       </div>
@@ -133,13 +133,13 @@
       <div class="row">
 
         <div class="col-lg-6 about-img">
-          <img src="img/about-img.jpg" alt="">
+          <img src="img/aboutus6.png" alt="" style="height:570px;object-fit:cover;padding-top:5px;">
         </div>
 
         <div class="col-md-6 about-content">
           <h2 class="about-title">We provide great services and ideas!</h2>
             <p class="about-text">
-                Lucianto Web Development is based in Rhode Island and we love working with the local businesses here, as well as international clients.
+                Lucianto Web Development is based in Rhode Island and we love working with the local businesses here, as well as both national and international clients.
                 If you would like to discuss how we can elevate your business together, please <a href="#contact"><u>contact us</u></a> below!
             </p>
           <p class="about-text">
@@ -147,14 +147,14 @@
               as well as other business needs such as designing flyers or business cards.
           </p>
           <p class="about-text">
-            We work hard to provide you with everything you need and meet any request. We have very customizable packages to
+            We work hard to provide you with everything you need and meet any request. We work with you to determine your goals so we can
               guarantee that you only pay for what you need, without any of additional nonsense costs other companies may charge you.
               Check out how we determine costs further below!
           </p>
           <p class="about-text">
                 We strongly believe all forms of business, no matter how large or small, can benefit exceptionally from forming
-              a web presence. Opening yourself to a user base of potentially millions is crucial in today's age. We are here to
-              work with you to set and accomplish new goals. WORDING
+              an online presence. Opening yourself to the largest consumer base in the world is crucial in today's age. We are here to
+              work with you to set and accomplish new goals. 
           </p>
 
           <p class="about-text">
@@ -239,7 +239,7 @@
           <div class="service-icon"><i class="fa fa-users"></i></div>
           <h4 class="service-title"><a href="">Customer Support</a></h4>
           <p class="service-description">Reach us via phone or email and expect a quick response as we help solve any problem you may have!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/support.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -247,7 +247,7 @@
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
           <p class="service-description">We will ensure your website is at peak performance, while making any additional changes you request!</p>
-          <div style="text-align: center"><a href="#" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/support.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -413,7 +413,7 @@
   </section>
 
   <!--==========================
-  Testimonials Section
+  team Section
   ============================-->
   <section id="testimonials">
     <div class="container wow fadeInUp">
@@ -430,12 +430,12 @@
           <div class="profile">
             <div class="pic"><img src="https://cdn2.iconfinder.com/data/icons/toolbar-signs-2/512/question_help_mark_balloon-512.png" alt=""></div>
             <h4>Antonio Isabella</h4>
-            <span>Cofounder</span>
+            <span>Co-Founder</span>
           </div>
         </div>
         <div class="col-md-9">
           <div class="quote" style="font-style:normal">
-            <p>Antonio Isabella is a software engineer with a bachelor's degree in Software Engineering and Web Design from New England Institute of Technology specializing in services such as PHP, JavaScript, and Java. Including other experience with technologies such as C# and .NET + .NET Core.</p>
+            <p>Antonio Isabella is a software engineer with a bachelor's degree in Software Engineering and Web Design, specializing in both front-end and back-end technologies, with a plethora of experience in customer relations!</p>
           </div>
         </div>
       </div>
@@ -443,14 +443,14 @@
       <div class="row">
         <div class="col-md-9">
           <div class="quote" style="font-style:normal">
-            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming from New England Institute of Technology specializing in services such as C#, JavaScript, PHP and Photoshop, including other experience with technologies such as MonoGame and XNA4.</p>
+            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accomadate any of your requests, including a diverse background in web and brand design! </p>
           </div>
         </div>
         <div class="col-md-3">
           <div class="profile">
             <div class="pic"><img src="https://previews.123rf.com/images/nikiteev/nikiteev1712/nikiteev171200052/91199146-vector-cartoon-doodle-pink-question-mark-on-white-background.jpg" alt=""></div>
             <h4>Luciano Mesiti</h4>
-            <span>Cofounder</span>
+            <span>Co-Founder</span>
           </div>
         </div>
       </div>
@@ -528,7 +528,7 @@
         <div class="col-md-12">
           <h3 class="section-title">Pricing</h3>
           <div class="section-title-divider"></div>
-          <p class="section-description">Here are the things we look at when determining cost! NEED THIS STYLED, MAYBE ITS OWN SEPARATE PAGE, MAYBE AS AN IMAGE TO MAKE LOOK COOL</p>
+          <p class="section-description">Here are the things we look at when determining cost!</p>
         </div>
       </div>
     </div>
@@ -537,25 +537,25 @@
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Creative Direction:</strong> Part of your payment is determined based on the creative direction of the process. It is looked at in tiers if you already have a design planned out for us, a basic idea of how you want everything to look, or if you would like us to create the entire design from scratch.</p>
+            <p ><strong >Creative Direction:</strong> Part of your payment is determined based on the creative direction of the process. If you already have a design laid out and assets created, that is great and we can create your site based off that! If you have no design in mind, that is no problem as well as we will design and create your site from scratch with your input every step of the way!</p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p><strong >Content System:</strong> We have varying payment plans depending on the content system you would like to implement. We can implement a Content Management System for you, allowing you to create, read, update, and delete data yourself or you can work with an internal dev that will update the website for you based on your submitted information.</p>
+            <p><strong >Content System:</strong> We have varying payment plans depending on the content system you would like to implement. We can implement a Content Management System for you, allowing you to create, read, update, and delete data yourself, or you can work with one of our developers that will update the website for you based on your submitted information.</p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Search Engine Optimization:</strong> Unlike our competitors, we will not charge you extra for our in depth Search Engine Optimization, helping boost your website higher up in search results. </p>
+            <p ><strong >Search Engine Optimization:</strong> Unlike our competitors, we will not charge you extra for our in depth Search Engine Optimization, helping boost your website to the top of the search results. </p>
           </div>
         </div>
 
         <div >
           <div style="margin:10px;">
-            <p ><strong >Content Creation:</strong> Similarly to our content system, prices vary if you already have all your content ready to be sent over and published, if you would need us to migrate content from another system, or if you would like us to create content from scratch.</p>
+            <p ><strong >Content Creation:</strong> Similarly to our content system, prices vary if you already have all your content ready to be sent over and published, if you would need us to manually migrate content from another system, or if you would like us to create content from scratch.</p>
           </div>
         </div>
 
