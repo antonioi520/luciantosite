@@ -33,7 +33,7 @@
                   </ul>
                 </li>-->
                 <li><a href="#contact">Contact Us</a></li>
-                <li><a href="inquiry.php" class="navpurchasebutton">Purchase</a></li>
+                <li><a href="inquiry.php" class="navpurchasebutton">Hire Us</a></li>
 
             </ul>
         </nav>
