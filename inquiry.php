@@ -63,10 +63,10 @@
 <br><br><br>
 
 <section id="">
-    <div >
+    <div>
         <div class="container">
-            <div class="">
-            <form method="post" action="send_inquiry_email.php" class="pform">
+            <div class="form">
+            <form action="" method="post" role="form" class="pform" id="myForm">
 
                 <div class="col-md-1"></div>
                 <div class="row">
@@ -127,7 +127,7 @@
                 <div class="col-md-1"></div>
                 <div class="row">
                 <div class="col-md-9 paydiv">
-                <input type="submit" value="Submit" class="form-control" style="background-color:#03C4EB;color:white;">
+                    <input type="submit" value="Submit" class="form-control" style="background-color:#03C4EB;color:white;">
                 </div>
                 </div>
             </form>
@@ -137,4 +137,44 @@
 </section>
 <br><br><br>
 <?php include 'views/footer.php'; ?>
+<script type="text/javascript">
+    var frm = $('#myForm');
+    frm.submit(function (ev) {
+        $.ajax({
+            type: frm.attr('method'),
+            url: "send_inquiry_email.php",
+            data: frm.serialize(),
+            success: function (data) {
+                return false;
+            },
+            error: function()
+            {
+                //$("#errormessage").show();
+
+                return false;
+            }
+        });
+
+        ev.preventDefault();
+    });
+</script>
+<script>
+    var invalidClassName = 'invalid'
+    var inputs = document.querySelectorAll('input, select, textarea')
+    inputs.forEach(function (input) {
+        // Add a css class on submit when the input is invalid.
+        input.addEventListener('invalid', function () {
+            input.classList.add(invalidClassName)
+        })
+
+        // Remove the class when the input becomes valid.
+        // 'input' will fire each time the user types
+        input.addEventListener('input', function () {
+            if (input.validity.valid) {
+                input.classList.remove(invalidClassName)
+            }
+        })
+    })
+</script>
+
 </body>
