@@ -77,10 +77,9 @@
         <div id="content-desktop">
             <div class="container" id="data-body">
                 <div style="text-align: center"><h1 style="color:black;font-size: 20px;">Website Page View Data</h1></div>
-                <div style="text-align: center"><h1 style="color:black;font-size: 11px;font-weight: 900;">Number of Pageviews per month since grand opening (June 16th, 2020)</h1></div>
+                <div style="text-align: center"><h1 style="color:black;font-size: 11px;font-weight: 900;">Number of Pageviews per month since grand opening (July 16th, 2020)</h1></div>
                 <div id="data">
                     <div id="data-title">
-                        <p style="font-weight: 700;">May 2020 &nbsp</p>
                         <p style="font-weight: 700;">June 2020 &nbsp</p>
                         <p style="font-weight: 700;">July 2020 &nbsp</p>
                         <p style="font-weight: 700;">August 2020 &nbsp</p>
@@ -88,8 +87,7 @@
                     </div>
 
                     <div class="graph-grid">
-                        <div class="bar percent-05"><div class="inner"></div></div>
-                        <div class="bar percent-20"><div class="inner"></div></div>
+                        <div class="bar percent-0"><div class="inner"></div></div>
                         <div class="bar percent-50"><div class="inner"></div></div>
                         <div class="bar percent-75"><div class="inner"></div></div>
                         <div class="bar percent-100"><div class="inner"></div></div>
