@@ -118,7 +118,6 @@
                 <div style="text-align: center"><h1 style="color:black;font-size: 11px;font-weight: 900;">Number of Pageviews per month since grand opening (June 16th, 2020)</h1></div>
                 <div id="data">
                     <div id="data-title-mobile">
-                        <p style="font-weight: 700;">May 2020</p>
                         <p style="font-weight: 700;">June 2020</p>
                         <p style="font-weight: 700;">July 2020</p>
                         <p style="font-weight: 700;">August 2020</p>
@@ -126,15 +125,15 @@
                     </div>
 
                     <div class="graph-grid">
-                        <div class="bar-mobile percent-1"><div class="inner"></div></div>
-                        <div class="bar-mobile percent-20"><div class="inner"></div></div>
-                        <div class="bar-mobile percent-50"><div class="inner"></div></div>
-                        <div class="bar-mobile percent-75"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-0"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-40"><div class="inner"></div></div>
+                        <div class="bar-mobile percent-80"><div class="inner"></div></div>
                         <div class="bar-mobile percent-100"><div class="inner"></div></div>
 
                         <div class="v-divider twenty-percent"></div>
-                        <div class="v-divider fifty-percent"></div>
-                        <div class="v-divider seventyfive-percent"></div>
+                        <div class="v-divider forty-percent"></div>
+                        <div class="v-divider sixty-percent"></div>
+                        <div class="v-divider eighty-percent"></div>
                         <div class="v-divider onehundred-percent"></div>
 
                         <div id="scale">
