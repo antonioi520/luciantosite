@@ -1003,14 +1003,16 @@ body.mobile-nav-active #mobile-nav-toggle {
     width: 100%;
   }
 }
-
-.page-button{
-  border: ridge #03C4EB 2px;
-  padding: 10px;
-  font-size: 40px;
-  transition: .5s;
+#testid a{
+  color:white;
 }
-.page-button:hover{
+#testid a:hover{
+  color:white;
+}
+#testid a:active{
+  color:white;
+}
+.page-button{
   border: ridge #03C4EB 2px;
   padding: 10px;
   font-size: 40px;
@@ -1018,6 +1020,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #03C4EB;
   color:white;
 }
+ .page-button:hover{
+  color:white;
+} 
+.page-button:active{
+  color:white;
+} 
+.page-button:focus{
+  color:white;
+} 
 .services-box-button:hover{
   border: ridge #03C4EB 2px;
   background-color: white;

@@ -9,11 +9,11 @@
 
         <nav id="nav-menu-container">
             <ul class="nav-menu">
-                <li><a href="../index.php#hero">Home</a></li>
-                <li><a href="../index.php#about">About Us</a></li>
-                <li><a href="../index.php#services">Services</a></li>
-                <li><a href="../index.php#portfolio">Portfolio</a></li>
-                <li><a href="../index.php#testimonials">Team</a></li>
+                <li><a href="../index#hero">Home</a></li>
+                <li><a href="../index#about">About Us</a></li>
+                <li><a href="../index#services">Services</a></li>
+                <li><a href="../index#portfolio">Portfolio</a></li>
+                <li><a href="../index#testimonials">Team</a></li>
                 <li><a href="store.html">Store</a></li>
                 <!---<li class="menu-has-children"><a href="">Drop Down</a>
                   <ul>
@@ -32,8 +32,8 @@
                     <li><a href="#">Drop Down 5</a></li>
                   </ul>
                 </li>-->
-                <li><a href="../index.php#contact">Contact Us</a></li>
-                <li><a href="../inquiry.php" class="navpurchasebutton">Hire Us</a></li>
+                <li><a href="../index#contact">Contact Us</a></li>
+                <li><a href="../inquiry" class="navpurchasebutton">Hire Us</a></li>
 
             </ul>
         </nav>

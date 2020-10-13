@@ -107,7 +107,7 @@
             </ul>
           </li>-->
           <li><a href="#contact">Contact Us</a></li>
-          <li><a href="inquiry.php" class="navpurchasebutton">Hire Us</a></li>
+          <li><a href="inquiry" class="navpurchasebutton">Hire Us</a></li>
         </ul>
       </nav>
       <!-- #nav-menu-container -->
@@ -186,14 +186,14 @@
             <div class="service-icon"><i class="fa fa-desktop"></i></div>
             <h4 class="service-title"><a href="#">Web Design</a></h4>
             <p class="service-description">Sleek and modern websites that will accommodate all your business needs in an easy to use interface.</p>
-            <div style="text-align: center"><a href="services/webdesign.php" class="services-box-button">Learn more</a></div>
+            <div style="text-align: center"><a href="services/webdesign" class="services-box-button">Learn more</a></div>
           </div>
 
           <div class="col-md-4 service-item mobileservice" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
               <div class="service-icon"><i class="fa fa-mobile" style="height:24px;width:26px; font-size: 30px; padding-left:6px"></i></div>
               <h4 class="service-title"><a href="">Mobile Development</a></h4>
               <p class="service-description">Customers can visit your website via mobile device and browse or shop with ease.</p>
-              <div style="text-align: center"><a href="services/mobiledev.php" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/mobiledev" class="services-box-button">Learn more</a></div>
 
           </div>
 
@@ -201,7 +201,7 @@
               <div class="service-icon"><i class="fa fa-database"></i></div>
               <h4 class="service-title"><a href="">Database Management</a></h4>
               <p class="service-description">Content management system for your website providing you access to create, read, update and delete data.</p>
-              <div style="text-align: center"><a href="services/database.php" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/database" class="services-box-button">Learn more</a></div>
 
           </div>
 
@@ -209,21 +209,21 @@
           <div class="service-icon"><i class="fa fa-bar-chart"></i></div>
           <h4 class="service-title"><a href="">Analytics</a></h4>
           <p class="service-description">Make use of analytics to form a deeper understanding of your consumer base.</p>
-          <div style="text-align: center"><a href="services/analytics.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/analytics" class="services-box-button">Learn more</a></div>
         </div>
 
           <div class="col-md-4 service-item mobileservice" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
               <div class="service-icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="service-title"><a href="">Shop</a></h4>
               <p class="service-description">Incorporate an online shop to your website allowing customers access to your full range of products.</p>
-              <div style="text-align: center"><a href="services/shop.php" class="services-box-button">Learn more</a></div>
+              <div style="text-align: center"><a href="services/shop" class="services-box-button">Learn more</a></div>
           </div>
 
         <div class="col-md-4 service-item mobileservice" style="border: outset 3px ;padding:15px;height:190px;margin:2px;width:380px">
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
           <h4 class="service-title"><a href="">Flyers</a></h4>
           <p class="service-description">Beautifully made flyers to advertise your business and catch the eyes of your future customers.</p>
-          <div style="text-align: center"><a href="services/branding.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/branding" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -231,7 +231,7 @@
           <div class="service-icon"><i class="fa fa-photo"></i></div>
           <h4 class="service-title"><a href="">Business Cards</a></h4>
           <p class="service-description">Sleek and modern business cards for customers or business partners that will be sure to impress!</p>
-          <div style="text-align: center"><a href="services/branding.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/branding" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -239,7 +239,7 @@
           <div class="service-icon"><i class="fa fa-users"></i></div>
           <h4 class="service-title"><a href="">Customer Support</a></h4>
           <p class="service-description">Reach us via phone or email and expect a quick response as we help solve any problem you may have!</p>
-          <div style="text-align: center"><a href="services/support.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/support" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -247,7 +247,7 @@
           <div class="service-icon"><i class="fa fa-wrench"></i></div>
           <h4 class="service-title"><a href="">Maintenance</a></h4>
           <p class="service-description">We will ensure your website is at peak performance, while making any additional changes you request!</p>
-          <div style="text-align: center"><a href="services/support.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/support" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -288,7 +288,7 @@
       <div class="row">
 
           <div class="col-md-3 portcenter">
-              <a class="portfolio-item" style="background-image: url(img/elninjaport.png);object-fit: contain;background-position: 45%;" href="portfolio/elninja.php">
+              <a class="portfolio-item" style="background-image: url(img/elninjaport.png);object-fit: contain;background-position: 45%;" href="portfolio/elninja">
                   <div class="details">
                       <h4 style="color:white;">El Ninja Restaurant</h4>
                       <span style="color:white;">Website built for a Latin/Japanese fusion sushi restaurant!</span>
@@ -297,7 +297,7 @@
           </div>
 
         <div class="col-md-3 portcenter">
-          <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" >
+          <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes" >
             <div class="details">
               <h4 style="color:white;">The Bomes Theatre</h4>
               <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing clients to submit their requests to book an event.</span>
@@ -306,7 +306,7 @@
         </div>
 
         <div class="col-md-3 portcenter">
-          <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="portfolio/mialma.php">
+          <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="portfolio/mialma">
             <div class="details">
               <h4 style="color:white;">Mi Alma Restaurant</h4>
               <span style="color:white;">Website built for a Latin fusion restaurant!</span>
@@ -360,7 +360,7 @@
         </div>
 
         <div class="col-md-3 portcenter">
-          <a class="portfolio-item" style="background-image: url(img/port1.png);" href="portfolio/steamweight.php">
+          <a class="portfolio-item" style="background-image: url(img/port1.png);" href="portfolio/steamweight">
             <div class="details">
               <h4 style="color:white;">SteamWeight</h4>
               <span style="color:white;">Compact website for statistics on your steam account created via PHP!</span>
@@ -369,7 +369,7 @@
         </div>
 
         <div class="col-md-3 portcenter">
-          <a class="portfolio-item" style="background-image: url(img/port2.png);" href="portfolio/fightinggame.php">
+          <a class="portfolio-item" style="background-image: url(img/port2.png);" href="portfolio/fightinggame">
             <div class="details">
               <h4 style="color:white;">Fighting Game</h4>
               <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#!</span>
@@ -407,7 +407,7 @@
       </div>
 
       <div style="text-align: center;">
-        <button><a href="portfolio.php">View More</a></button>
+        <button><a href="portfolio">View More</a></button>
       </div>
     </div>
   </section>
@@ -428,7 +428,7 @@
       <div class="row">
         <div class="col-md-3">
           <div class="profile " >
-            <div class="pic profcenter"><img src="https://cdn2.iconfinder.com/data/icons/toolbar-signs-2/512/question_help_mark_balloon-512.png" alt="" ></div>
+            <div class="pic profcenter"><img src="img/proficons.jpg" alt="" ></div>
             <h4>Antonio Isabella</h4>
             <span>Co-Founder</span>
           </div>
@@ -448,7 +448,7 @@
         </div>
         <div class="col-md-3">
           <div class="profile">
-            <div class="pic profcenter2"><img src="https://previews.123rf.com/images/nikiteev/nikiteev1712/nikiteev171200052/91199146-vector-cartoon-doodle-pink-question-mark-on-white-background.jpg" alt=""></div>
+            <div class="pic profcenter2"><img src="img/proficons.jpg" alt=""></div>
             <h4>Luciano Mesiti</h4>
             <span>Co-Founder</span>
           </div>

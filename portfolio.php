@@ -70,7 +70,7 @@
             <div class="container wow fadeInUp">
                 <div class="row">
                     <div class="col-md-3 portcenter">
-                        <a class="portfolio-item" style="background-image: url(img/elninjaport.png);object-fit: contain;background-position: 45%;" href="portfolio/elninja.php">
+                        <a class="portfolio-item" style="background-image: url(img/elninjaport.png);object-fit: contain;background-position: 45%;" href="portfolio/elninja">
                             <div class="details">
                                 <h4 style="color:white;">El Ninja Restaurant</h4>
                                 <span style="color:white;">Website built for a Latin/Japanese fusion sushi restaurant!</span>
@@ -78,7 +78,7 @@
                         </a>
                     </div>
                     <div class="col-md-3 portcenter">
-                        <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
+                        <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes" >
                             <div class="details">
                                 <h4 style="color:white;">The Bomes Theatre</h4>
                                 <span style="color:white;">Website built for the illustrious Bomes Theatre located in Providence, RI. Includes a booking feature allowing clients to submit their requests to book an event.</span>
@@ -86,7 +86,7 @@
                         </a>
                     </div>
                     <div class="col-md-3 portcenter">
-                        <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="portfolio/mialma.php">
+                        <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="portfolio/mialma">
                             <div class="details">
                                 <h4 style="color:white;">Mi Alma Restaurant</h4>
                                 <span style="color:white;">Website built for a Latin fusion restaurant!</span>
@@ -94,7 +94,7 @@
                         </a>
                     </div>
                     <div class="col-md-3 portcenter">
-                        <a class="portfolio-item" style="background-image: url(img/port1.png);" href="portfolio/steamweight.php" target="_blank">
+                        <a class="portfolio-item" style="background-image: url(img/port1.png);" href="portfolio/steamweight" >
                             <div class="details">
                                 <h4 style="color:white;">SteamWeight</h4>
                                 <span style="color:white;">Compact website for statistics on your steam account created via PHP!</span>
@@ -112,7 +112,7 @@
             <div class="container wow fadeInUp">
                 <div class="row">
                     <div class="col-md-3 portcenter">
-                        <a class="portfolio-item" style="background-image: url(img/port2.png);" href="portfolio/fightinggame.php">
+                        <a class="portfolio-item" style="background-image: url(img/port2.png);" href="portfolio/fightinggame">
                             <div class="details">
                                 <h4 style="color:white;">Fighting Game</h4>
                                 <span style="color:white;">Mobile Fighting-esque Strategy Game developed via Unity in C#!</span>
