@@ -443,7 +443,7 @@
       <div class="row">
         <div class="col-md-9">
           <div class="quote" style="font-style:normal">
-            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accomadate any of your requests, including a diverse background in web and brand design! </p>
+            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accommodate any of your requests, including a diverse background in web and brand design! </p>
           </div>
         </div>
         <div class="col-md-3">
