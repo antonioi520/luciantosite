@@ -80,7 +80,7 @@ if($_POST['submit']) {
             'X-Mailer: PHP/' . phpversion();
         @mail($email_to, $email_subject, $email_message, $headers);
         
-        header('Location: inquiry.php');
+        header('Location: thankyou.php');
         exit;
     }
 }

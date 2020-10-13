@@ -7,10 +7,10 @@ Footer
             <div class="col-md-12">
                 <center>
                     <div class="d-flex justify-content-center">
-                        <p class="footerLinks"><a href="../index.php" style="text-align: center;font-size: small;" class="footerLinkText">Home</a></p>
-                        <p class="footerLinks"><a href="../portfolio.php" style="text-align: center;font-size: small;" class="footerLinkText">Portfolio</a></p>
-                        <p class="footerLinks"><a href="../index.php#services" style="text-align: center;font-size: small;" class="footerLinkText">Services</a></p>
-                        <p class="footerLinks"><a href="../inquiry.php" style="text-align: center;font-size: small;" class="footerLinkText">Inquiry Form</a></p>
+                        <p class="footerLinks"><a href="../index" style="text-align: center;font-size: small;" class="footerLinkText">Home</a></p>
+                        <p class="footerLinks"><a href="../ourportfolio" style="text-align: center;font-size: small;" class="footerLinkText">Portfolio</a></p>
+                        <p class="footerLinks"><a href="../index#services" style="text-align: center;font-size: small;" class="footerLinkText">Services</a></p>
+                        <p class="footerLinks"><a href="../inquiry" style="text-align: center;font-size: small;" class="footerLinkText">Inquiry Form</a></p>
                         
                     </div>
                     <!--br>

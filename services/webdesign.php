@@ -137,7 +137,7 @@
 
         <div class="col-md-4"></div>
         <div class="col-md-4">
-            <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
+            <div style="text-align: center;" id="testid"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
         </div>
         <div class="col-md-4"></div>
 
