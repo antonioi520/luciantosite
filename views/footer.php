@@ -16,7 +16,7 @@ Footer
                     <!--br>
                     <strong style="text-align: center; font-size: 16px">Lucianto Development Team</strong-->
                     <br>
-                    <a href="/index.php"><img src="../img/logo2.png" alt="logo" style="height:100px;width:100px;object-fit: cover;"></a>
+                    <a href="/index.php"><img src="../img/testlogo11.png" alt="logo" style="height:100px;width:100px;object-fit: cover;"></a>
                     <a href="/index.php"><img src="../img/lucianto.png" alt="logo" style="height:100px;width:200px;object-fit: contain;"></a>
                 </center>
                 <br>

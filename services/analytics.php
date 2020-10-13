@@ -49,11 +49,11 @@
 <section class="cd-intro" id="hero" style="height:430px;" >
     <div class="hero-container cd-intro-content mask">
         <div class="wow fadeIn">
-            <div class="hero-logo" style="margin-top: 80px;">
+        <div class="hero-logo" style="margin-top: 80px;">
                 <div style="margin-bottom: -50px;">
-                    <img src="../img/logo2.png" alt="logo image" title="" style="margin-left:50px; height: 200px;">
+                <img src="../img/testlogo11.png" alt="logo image" title="" style="margin-left:10px; height: 200px;">
                 </div>
-                <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
+                <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -20px;">
             </div>
 
             <h1 data-content="Analytics" style="font-weight: 600; margin-top:30px;"><span>Analytics</span></h1>

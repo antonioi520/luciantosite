@@ -1,9 +1,9 @@
-<header id="header" style="">
+<header id="header" style="background-color:#111">
     <div class="container">
 
         <div id="logo" class="pull-left" style="height:30px;">
-            <a href="../index.php#hero"><img src="../img/logo2.png" alt="" title="" style="margin-bottom:5px" /></a>
-            <a href="../index.php#hero"><img src="../img/lucianto.png" alt="" title="" style="height:45px;margin-bottom: 10px;" /></a>
+        <a href="#hero"><img src="../img/testlogo11.png" alt="" title="" id="navlogo1" /></a>
+        <a href="#hero"><img src="../img/lucianto.png" alt="" title="" id="navlogo2" /></a>
             <p><a href="../index.php#hero"style="color:white;font-weight: bold;font-size: 15px;"></a></p>
         </div>
 

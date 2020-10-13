@@ -54,9 +54,9 @@
       <div class="wow fadeIn">
         <div class="hero-logo">
           <div style="margin-bottom: -50px;">
-          <img src="img/logo2.png" alt="" title="" style="margin-left:55px; height: 200px;">
+          <img src="img/testlogo11.png" alt="" title="" style="margin-left:10px; height: 250px;" class="headerlogo">
           </div>
-          <img class="" src="img/lucianto.png" alt="">
+          <img class="" src="img/lucianto.png" alt="" style="margin-left:-20px;">
         </div>
 
         <h1 data-content="Lucianto Web Development" style="font-weight: 600;" class="heroheadertext"><span>Lucianto Web Development</span></h1>
@@ -76,8 +76,8 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="#hero"><img src="img/logo2.png" alt="" title="" /></a>
-        <a href="#hero"><img src="img/lucianto.png" alt="" title="" /></a>
+        <a href="#hero"><img src="img/testlogo11.png" alt="" title="" id="navlogo1" /></a>
+        <a href="#hero"><img src="img/lucianto.png" alt="" title="" id="navlogo2" /></a>
         <p><a href="#hero"style="color:white;font-weight: bold;font-size: 15px;"></a></p>
       </div>
 
@@ -223,7 +223,7 @@
           <div class="service-icon"><i class="fa fa-paper-plane"></i></div>
           <h4 class="service-title"><a href="">Flyers</a></h4>
           <p class="service-description">Beautifully made flyers to advertise your business and catch the eyes of your future customers.</p>
-          <div style="text-align: center"><a href="services/design.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/branding.php" class="services-box-button">Learn more</a></div>
 
         </div>
 
@@ -231,7 +231,7 @@
           <div class="service-icon"><i class="fa fa-photo"></i></div>
           <h4 class="service-title"><a href="">Business Cards</a></h4>
           <p class="service-description">Sleek and modern business cards for customers or business partners that will be sure to impress!</p>
-          <div style="text-align: center"><a href="services/design.php" class="services-box-button">Learn more</a></div>
+          <div style="text-align: center"><a href="services/branding.php" class="services-box-button">Learn more</a></div>
 
         </div>
 

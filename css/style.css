@@ -236,9 +236,12 @@ p {
 }
 
 #header #logo img {
-  padding: 0;
-  margin: 0;
+  position: relative;
+  top:-25px;
   max-height: 50px;
+}
+#navlogo1{
+  max-height: 100px !important;
 }
 
 @media (max-width: 768px) {
@@ -1281,6 +1284,24 @@ body.mobile-nav-active #mobile-nav-toggle {
   .mobilemodal{
     height:100% !important;
     width:100% !important;
+  }
+  .headerlogo{
+    margin-left: 10px !important;
+  }
+  #header #logo img{
+    position: static;
+    margin:auto !important;
+    padding:auto !important;
+    max-height: 50px !important;
+  }
+  #navlogo2{
+    position: relative !important;
+    top:-5px !important;
+    left:-10px !important;
+  }
+  #navlogo1{
+    position: relative !important;
+    top:-3px !important;
   }
   
 }

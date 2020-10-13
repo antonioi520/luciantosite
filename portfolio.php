@@ -92,10 +92,13 @@
         <div class="wow fadeIn">
             <div class="hero-logo" style="margin-top: 80px;">
                 <div style="margin-bottom: -50px;">
-                    <img src="img/logo2.png" alt="logo image" title="" style="margin-left:50px; height: 200px;">
+                <img src="../img/testlogo11.png" alt="logo image" title="" style="margin-left:10px; height: 200px;">
                 </div>
-                <img class="" src="img/lucianto.png" alt="logo text" style="margin-left: -5px;">
+                <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -20px;">
             </div>
+
+            <h1 data-content="Shop" style="font-weight: 600; margin-top:30px;"><span>Shop</span></h1>
+        </div>
 
             <h1 data-content="Portfolio" style="font-weight: 600; margin-top:30px;"><span>Portfolio</span></h1>
         </div>
