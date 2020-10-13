@@ -88,7 +88,7 @@
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#testimonials">Team</a></li>
-          <li><a href="store.html">Store</a></li>
+          <li><a href="#pricing">Pricing</a></li>
           <!---<li class="menu-has-children"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1 </a></li>
@@ -443,7 +443,7 @@
       <div class="row">
         <div class="col-md-9">
           <div class="quote" style="font-style:normal">
-            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accomadate any of your requests, including a diverse background in web and brand design! </p>
+            <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accommodate any of your requests, including a diverse background in web and brand design! </p>
           </div>
         </div>
         <div class="col-md-3">
@@ -522,7 +522,7 @@
   <!--==========================
   Pricing Section
   ============================-->
-  <section id="about">
+  <section id="pricing">
     <div class="container wow fadeInUp">
       <div class="row">
         <div class="col-md-12">
