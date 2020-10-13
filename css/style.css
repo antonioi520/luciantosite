@@ -1216,3 +1216,71 @@ body.mobile-nav-active #mobile-nav-toggle {
 .navpurchasebutton:hover{
   color:white !important; 
 }
+
+@media (max-width: 768px) {
+  .heroheadertext {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .servicesrow{
+    margin: 0 0 0 0;
+  }
+  .portcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+  }
+  .profcenter{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .profcenter2{
+    position: relative;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .mobileservice{
+    width:auto !important;
+    height:auto !important;
+  }
+  .footerLinks{
+    padding:15px;
+  }
+  .footerLinkText{
+    font-size: 12px !important;
+  }
+  .getstartedbutton{
+    font-size: 35px;
+  }
+  .getstartedbutton:hover{
+    font-size: 35px;
+  }
+  .mobilePortHead{
+    text-align: center;
+  }
+  .pform{
+    width:auto;
+    margin:0;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+  }
+  .payform{
+    width:96%;
+  }
+  .submitbutton{
+    width:96%;
+  }
+  .mobilemodal{
+    height:100% !important;
+    width:100% !important;
+  }
+  
+}

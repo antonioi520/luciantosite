@@ -66,7 +66,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Flyers</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Flyers</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     We will work alongside you and your company to execute your vision and deliver a product worth showing off to your customers.
@@ -94,7 +94,7 @@
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Business Cards</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Business Cards</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Allow us to work with you and your company to design a business card that will be sure to impress! Business cards can say
@@ -116,7 +116,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -127,4 +127,5 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 </body>

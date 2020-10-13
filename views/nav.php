@@ -1,4 +1,4 @@
-<header id="header" style="padding-top: 10px;padding-bottom: 10px;height:60px;">
+<header id="header" style="">
     <div class="container">
 
         <div id="logo" class="pull-left" style="height:30px;">
@@ -32,8 +32,8 @@
                     <li><a href="#">Drop Down 5</a></li>
                   </ul>
                 </li>-->
-                <li><a href="#contact">Contact Us</a></li>
-                <li><a href="inquiry.php" class="navpurchasebutton">Hire Us</a></li>
+                <li><a href="../index.php#contact">Contact Us</a></li>
+                <li><a href="../inquiry.php" class="navpurchasebutton">Hire Us</a></li>
 
             </ul>
         </nav>

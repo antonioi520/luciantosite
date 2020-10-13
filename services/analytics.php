@@ -23,7 +23,7 @@
     <meta name="twitter:image" content="">
 
     <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
-    <link href="/luciantosite/img/favicon.ico" rel="shortcut icon">
+    <link href="../img/favicon.ico" rel="shortcut icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
@@ -66,7 +66,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Benefits of Analytics</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Benefits of Analytics</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Web analytics help you better identify and understand your target audience, allowing you to improve bounce rate, and increase your ROI by focusing your resources appropriately. Web analytics are additionally useful to any business for determining market interest, segmentation of the market, analyzing market trends, and determining the behavior of website visitors.
@@ -93,7 +93,7 @@
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Analytics in Small Business</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Analytics in Small Business</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     You do not need to be a large business to benefit from web analytics. In fact, we believe the sooner a small business embraces web analytics, the better and we are here to help you through every step! We can help you detect problems in the early stages of your platform, allowing you to save money, resources, and nerves, as well as build your initial traction.
@@ -113,7 +113,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Tools Used</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Tools Used</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     We use an array of tools depending on your wants and needs. The most basic being Google Analytics and Google Search Engine Console, giving a multitude of incredible, useful, and very specific tools. You can accomplish most of what you need with these basic tools and we can help you set it up, as well as help you understand what you are looking at.
@@ -135,7 +135,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -146,4 +146,8 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
+
+ <!-- Required JavaScript Libraries -->
+ 
 </body>

@@ -56,7 +56,7 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
             </div>
 
-            <h1 data-content="Purchase Form" style="font-weight: 600; margin-top:30px;"><span>Purchase Form</span></h1>
+            <h1 data-content="Submit Inquiry" style="font-weight: 600; margin-top:30px;"><span>Submit Inquiry</span></h1>
         </div>
     </div>
 </section>
@@ -127,7 +127,7 @@
                 <div class="col-md-1"></div>
                 <div class="row">
                 <div class="col-md-9 paydiv">
-                    <input type="submit" name="submit" value="Submit" class="form-control" style="background-color:#03C4EB;color:white;">
+                    <input type="submit" name="submit" value="Submit" class="form-control submitbutton" style="background-color:#03C4EB;color:white;">
                 </div>
                 </div>
             </form>
@@ -136,6 +136,22 @@
 </section>
 <br><br><br>
 <?php include 'views/footer.php'; ?>
+ <!-- Required JavaScript Libraries -->
+ <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/morphext/morphext.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/stickyjs/sticky.js"></script>
+  <script src="lib/easing/easing.js"></script>
+
+  <!-- Template Specific Custom Javascript File -->
+  <script src="js/custom.js"></script>
+
+  <script src="contactform/contactform.js"></script>
+  <script src="js/jquery-2.1.4.js"></script>
+  <script src="js/main.js"></script>
 <!-- <script type="text/javascript">
     var frm = $('#myForm');
     frm.submit(function (ev) {

@@ -66,7 +66,7 @@
     <div class="row">
 
         <div class="col-md-7 about-content">
-            <h1 style="font-weight: bold;font-size: 50px;color:black;">The Design Process</h1>
+            <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">The Design Process</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
             <p class="about-text">
                 Your website is an important tool that provides you with a podium for a necessary web presence, allowing you to get in touch with millions of users around the world, widening your range of potential customers and expanding your brand.
@@ -93,7 +93,7 @@
         </div>
 
         <div class="col-md-7 about-content">
-            <h1 style="font-weight: bold;font-size: 50px;color:black;">Responsive Web Design</h1>
+            <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Responsive Web Design</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
             <p class="about-text">
                 Your website must be accessible and usable on as many devices as possible in order to widen your consumer base and bring in the most amount of users. In today's day and age, 50% of web traffic comes from mobile devices, and with the large range of screen displays today, you want to ensure you can reach all of these users.
@@ -113,7 +113,7 @@
     <div class="row">
 
         <div class="col-md-7 about-content">
-            <h1 style="font-weight: bold;font-size: 50px;color:black;">Accessibility Web Design</h1>
+            <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Accessibility Web Design</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
             <p class="about-text">
                 The internet is built for everybody. We believe that all users should be accommodated for in order to ensure that your brand has as many eyes on it as possible.
@@ -137,7 +137,7 @@
 
         <div class="col-md-4"></div>
         <div class="col-md-4">
-            <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+            <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
         </div>
         <div class="col-md-4"></div>
 
@@ -148,4 +148,5 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 </body>

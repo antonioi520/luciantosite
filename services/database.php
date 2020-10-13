@@ -93,7 +93,7 @@
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Why do I need a database?</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Why do I need a database?</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Many small business continue to use text files or Excel spreadsheets to store and maintain their data, which may work well for their specific needs, but there are many unique problems this can cause.
@@ -113,7 +113,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Managing Your Database</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Managing Your Database</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     We make it very easy to manage your website's database. We understand the process of learning how to use and maintain databases can be difficult, which is why we create special tools to allow you to easily manage your data. We do this with a Content Management System.
@@ -138,7 +138,7 @@
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Database Security</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Database Security</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     We are able to build your database from the ground up as well as maintain it and keep it secure. We take security very seriously and keep up with the best practices to keep you and your users information safe.
@@ -159,7 +159,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -170,4 +170,5 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 </body>

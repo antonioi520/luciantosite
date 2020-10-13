@@ -66,7 +66,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Benefits of a Digital Storefront</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Benefits of a Digital Storefront</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Having a digital storefront is now more important than ever in an age of convenience-based shopping and technological growth.
@@ -93,7 +93,7 @@
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Branding and Online Shopping</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Branding and Online Shopping</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Branding is a critical part of any successful business, as it's how your customers can identify and recognize
@@ -137,7 +137,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -148,4 +148,5 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 </body>

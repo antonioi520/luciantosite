@@ -248,11 +248,12 @@
     -webkit-animation-name: grow-90;
     right: 10%;
 }
-.bar.percent-80 .inner, .bar.percent-80 .inner {
+.bar.percent-80 .inner, .bar-mobile.percent-80 .inner {
     -webkit-animation-duration: 2s;
     -webkit-animation-name: grow-80;
     right: 20%;
 }
+
 .bar.percent-75 .inner, .bar-mobile.percent-75 .inner {
     -webkit-animation-duration: 3s;
     -webkit-animation-name: grow-75;

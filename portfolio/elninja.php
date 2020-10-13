@@ -162,9 +162,7 @@
                             We worked with El Ninja Restaurant translate and create their digital menus for both Spanish and English speaking demographics. These menus are routinely updated with new prices and food/drink items as well as specials.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 months ago</small>
-                    </div>
+                    
                 </div>
                 <div class="card ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Reservations</h5>
@@ -173,9 +171,7 @@
                             We have implemented a tool for customers to create reservations to dine at El Ninja Restaurant.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 months ago</small>
-                    </div>
+                   
                 </div>
                 <div class="card  ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Events / Gallery</h5>
@@ -184,9 +180,7 @@
                             We advertise our clients various upcoming and recurring events at their venue as well as hold a large library of professionally taken images from said events. This library is updated periodically with newly submitted images for every event our client hosts. Due to the large number of high quality images, we work to make sure this gallery loads seamlessly on desktop and mobile devices.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 months ago</small>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -195,7 +189,7 @@
 
         <div class="row">
             <div class="col-md-8 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Project Overview</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     El Ninja Restaurant is a Latin fusion sushi restaurant brought to Broad Street alongside the newly renovated Bomes Theatre, headed by world-class chef El Ninja and a talented staff, that uses only the finest ingredients! They provide an array of services including special events and takeout. El Ninja Restaurant serves traditional Japanese cuisine, alongside signature Japanese/Latin fusion dishes that will blow you away!
@@ -209,7 +203,7 @@
             </div>
             <div class="col-lg-1"></div>
             <div id="content-desktop" class="col-lg-3 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black" class="mobilePortHead">Tech Specs</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text" style="text-align: center">
                     HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
@@ -217,9 +211,9 @@
             </div>
             <br id="content-mobile">
             <div id="content-mobile" class="col-lg-3 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black"class="mobilePortHead">Tech Specs</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
-                <p class="about-text" style="text-align: left">
+                <p class="about-text" style="text-align: center">
                     HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
                 </p>
             </div>
@@ -231,7 +225,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -239,6 +233,7 @@
     </div>
 </section>
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
