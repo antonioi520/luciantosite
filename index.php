@@ -407,7 +407,7 @@
       </div>
 
       <div style="text-align: center;">
-        <button><a href="portfolio">View More</a></button>
+        <button><a href="ourportfolio">View More</a></button>
       </div>
     </div>
   </section>
