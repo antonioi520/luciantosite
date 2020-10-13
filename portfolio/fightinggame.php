@@ -81,9 +81,7 @@
                             FightingGameName includes a full story mode for players to play through, travelling through various countries and defeating several bosses to progress through a Street Fighter-esque tournament. FightGamingName also includes an arcade mode with progressively tougher levels that the player can play through and see to conquering the 100th stage. Playing through these modes also includes unlocks for new characters to play as.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+                    
                 </div>
                 <div class="card  ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Procedurally Generated</h5>
@@ -92,9 +90,7 @@
                             The game boards themselves, where players match different types of abilities and power-ups, are procedurally generated, meaning no players would have the same board. Although the boards are procedurally generated, they are designed to stay within a specific parameter in difficulty associated to the stage the player is on.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+                    
                 </div>
                 <div class="card ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Animations</h5>
@@ -103,9 +99,7 @@
                             Our library of characters and enemies all have custom animations designed associated to the action they are taking like attacking, defending, or taking damage. Our game board also features various animations for matching certain types of tiles.
                         </p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+                    
                 </div>
             </div>
 
@@ -117,7 +111,7 @@
         <div class="row">
 
             <div class="col-md-8 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Project Overview</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     FightGameName is a mobile fighting / matching game for iOS and Android. It takes a popular genre of mobile games, the classic match-3 seen in titles such as Bejeweled and Candy Crush, and adds another exciting layer to it. In FightGameName, you have a fully animated Street Fighter-esque combat between the player and the enemy, where the choice of moves you do and damage applied is determined by the set of tiles you match on the game board below. The game includes a story mode and an arcade mode with various character unlocks and goals for the player to achieve.
@@ -128,7 +122,7 @@
             </div>
             <div class="col-lg-1"></div>
             <div class="col-lg-3 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black" class="mobilePortHead">Tech Specs</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text" style="text-align: center">
                     C# <br> Unity
@@ -144,7 +138,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -155,6 +149,7 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>

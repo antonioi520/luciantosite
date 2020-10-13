@@ -1,9 +1,9 @@
-<header id="header" style="padding-top: 10px;padding-bottom: 10px;height:60px;">
+<header id="header" style="background-color:#111">
     <div class="container">
 
         <div id="logo" class="pull-left" style="height:30px;">
-            <a href="../index.php#hero"><img src="../img/logo2.png" alt="" title="" style="margin-bottom:5px" /></a>
-            <a href="../index.php#hero"><img src="../img/lucianto.png" alt="" title="" style="height:45px;margin-bottom: 10px;" /></a>
+        <a href="#hero"><img src="../img/testlogo11.png" alt="" title="" id="navlogo1" /></a>
+        <a href="#hero"><img src="../img/lucianto.png" alt="" title="" id="navlogo2" /></a>
             <p><a href="../index.php#hero"style="color:white;font-weight: bold;font-size: 15px;"></a></p>
         </div>
 
@@ -32,8 +32,8 @@
                     <li><a href="#">Drop Down 5</a></li>
                   </ul>
                 </li>-->
-                <li><a href="#contact">Contact Us</a></li>
-                <li><a href="inquiry.php" class="navpurchasebutton">Hire Us</a></li>
+                <li><a href="../index.php#contact">Contact Us</a></li>
+                <li><a href="../inquiry.php" class="navpurchasebutton">Hire Us</a></li>
 
             </ul>
         </nav>

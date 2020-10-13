@@ -236,9 +236,12 @@ p {
 }
 
 #header #logo img {
-  padding: 0;
-  margin: 0;
+  position: relative;
+  top:-25px;
   max-height: 50px;
+}
+#navlogo1{
+  max-height: 100px !important;
 }
 
 @media (max-width: 768px) {
@@ -1215,4 +1218,90 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .navpurchasebutton:hover{
   color:white !important; 
+}
+
+@media (max-width: 768px) {
+  .heroheadertext {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  .servicesrow{
+    margin: 0 0 0 0;
+  }
+  .portcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+  }
+  .profcenter{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .profcenter2{
+    position: relative;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .mobileservice{
+    width:auto !important;
+    height:auto !important;
+  }
+  .footerLinks{
+    padding:15px;
+  }
+  .footerLinkText{
+    font-size: 12px !important;
+  }
+  .getstartedbutton{
+    font-size: 35px;
+  }
+  .getstartedbutton:hover{
+    font-size: 35px;
+  }
+  .mobilePortHead{
+    text-align: center;
+  }
+  .pform{
+    width:auto;
+    margin:0;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+  }
+  .payform{
+    width:96%;
+  }
+  .submitbutton{
+    width:96%;
+  }
+  .mobilemodal{
+    height:100% !important;
+    width:100% !important;
+  }
+  .headerlogo{
+    margin-left: 10px !important;
+  }
+  #header #logo img{
+    position: static;
+    margin:auto !important;
+    padding:auto !important;
+    max-height: 50px !important;
+  }
+  #navlogo2{
+    position: relative !important;
+    top:-5px !important;
+    left:-10px !important;
+  }
+  #navlogo1{
+    position: relative !important;
+    top:-3px !important;
+  }
+  
 }

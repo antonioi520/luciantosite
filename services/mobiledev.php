@@ -51,9 +51,9 @@
         <div class="wow fadeIn">
             <div class="hero-logo" style="margin-top: 80px;">
                 <div style="margin-bottom: -50px;">
-                    <img src="../img/logo2.png" alt="logo image" title="" style="margin-left:50px; height: 200px;">
+                <img src="../img/testlogo11.png" alt="logo image" title="" style="margin-left:10px; height: 200px;">
                 </div>
-                <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -5px;">
+                <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -20px;">
             </div>
 
             <h1 data-content="Mobile Development" style="font-weight: 600; margin-top:30px;"><span>Mobile Development</span></h1>
@@ -66,7 +66,7 @@
         <div class="row">
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Why have a mobile site?</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Why have a mobile site?</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     Having a website or application that works on a majority of mobile devices is a huge priority in this day and age for all businesses. Mobile traffic accounted for approximately 51% of all website traffic in 2019 with approximately 50% of consumers say they won’t return to a website if it doesn’t load properly on their mobile phone. This is a huge consumer base that you could potentially be missing out on.
@@ -93,7 +93,7 @@
             </div>
 
             <div class="col-md-7 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">How it's done</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">How it's done</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     In our own released products, we have noticed swings of up to 80% of all traffic coming from consumers viewing from their mobile devices. Without a functional mobile website or application, this is a large percentage of our customers businesses that they could potentially be losing out on.
@@ -115,7 +115,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -126,4 +126,5 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 </body>

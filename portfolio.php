@@ -44,56 +44,16 @@
 </head>
 
 <body>
-<header id="header">
-    <div class="container">
-
-        <div id="logo" class="pull-left">
-            <a href="#hero"><img src="img/logo2.png" alt="" title="" /></a>
-            <a href="#hero"><img src="img/lucianto.png" alt="" title="" /></a>
-            <p><a href="#hero"style="color:white;font-weight: bold;font-size: 15px;"></a></p>
-        </div>
-
-        <nav id="nav-menu-container">
-            <ul class="nav-menu">
-                <li ><a href="index.php#hero">Home</a></li>
-                <li><a href="index.php#about">About Us</a></li>
-                <li><a href="index.php#services">Services</a></li>
-                <li class="menu-active"><a href="index.php#portfolio">Portfolio</a></li>
-                <li><a href="index.php#testimonials">Testimonials</a></li>
-                <li><a href="index.php#team">Team</a></li>
-                <li><a href="index.phpstore.html">Store</a></li>
-                <!---<li class="menu-has-children"><a href="">Drop Down</a>
-                  <ul>
-                    <li><a href="#">Drop Down 1 </a></li>
-                    <li class="menu-has-children"><a href="#">Drop Down 2</a>
-                      <ul>
-                        <li><a href="#">Deep Drop Down 1</a></li>
-                        <li><a href="#">Deep Drop Down 2</a></li>
-                        <li><a href="#">Deep Drop Down 3</a></li>
-                        <li><a href="#">Deep Drop Down 4</a></li>
-                        <li><a href="#">Deep Drop Down 5</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="#">Drop Down 3</a></li>
-                    <li><a href="#">Drop Down 4</a></li>
-                    <li><a href="#">Drop Down 5</a></li>
-                  </ul>
-                </li>-->
-                <li><a href="#contact">Contact Us</a></li>
-            </ul>
-        </nav>
-        <!-- #nav-menu-container -->
-    </div>
-</header>
+<?php include 'views/nav.php' ?>
 
 <section class="cd-intro" id="hero" style="height:430px;" >
     <div class="hero-container cd-intro-content mask">
         <div class="wow fadeIn">
             <div class="hero-logo" style="margin-top: 80px;">
                 <div style="margin-bottom: -50px;">
-                    <img src="img/logo2.png" alt="logo image" title="" style="margin-left:50px; height: 200px;">
+                <img src="../img/testlogo11.png" alt="logo image" title="" style="margin-left:10px; height: 200px;">
                 </div>
-                <img class="" src="img/lucianto.png" alt="logo text" style="margin-left: -5px;">
+                <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -20px;">
             </div>
 
             <h1 data-content="Portfolio" style="font-weight: 600; margin-top:30px;"><span>Portfolio</span></h1>
@@ -109,7 +69,7 @@
         <section id="portfolio">
             <div class="container wow fadeInUp">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/elninjaport.png);object-fit: contain;background-position: 45%;" href="portfolio/elninja.php">
                             <div class="details">
                                 <h4 style="color:white;">El Ninja Restaurant</h4>
@@ -117,7 +77,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/bomes5.png);background-position: 50%;" href="portfolio/bomes.php" target="_blank">
                             <div class="details">
                                 <h4 style="color:white;">The Bomes Theatre</h4>
@@ -125,7 +85,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/test5.png);object-fit: contain;background-position: 53%;" href="portfolio/mialma.php">
                             <div class="details">
                                 <h4 style="color:white;">Mi Alma Restaurant</h4>
@@ -133,7 +93,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/port1.png);" href="portfolio/steamweight.php" target="_blank">
                             <div class="details">
                                 <h4 style="color:white;">SteamWeight</h4>
@@ -151,7 +111,7 @@
         <section id="portfolio">
             <div class="container wow fadeInUp">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/port2.png);" href="portfolio/fightinggame.php">
                             <div class="details">
                                 <h4 style="color:white;">Fighting Game</h4>
@@ -159,7 +119,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="">
                             <div class="details">
                                 <h4 style="color:white;">Lock & Load</h4>
@@ -177,7 +137,7 @@
         <section id="portfolio">
             <div class="container wow fadeInUp">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
           <a class="portfolio-item" style="background-image: url(img/port4.jpg);"  data-toggle="modal" data-target="#myModal">
             <div class="details">
               <h4 style="color:white;">NUR Performance Flyer</h4>
@@ -191,14 +151,14 @@
                         <!--- Modal content -->
                       <div class="modal-content">
                           <div class="modal-body"  >
-                            <img src="img/port4.jpg" style="height:700px;width:500px;display:block;margin:auto;">
+                            <img src="img/port4.jpg" style="height:700px;width:500px;display:block;margin:auto;" class="mobilemodal">
                           </div>
                           <div class="modal-footer"  >
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                           </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/port5.jpg);"  data-toggle="modal" data-target="#myModal2">
                             <div class="details">
                                 <h4 style="color:white;">NUR Performance Flyer 2</h4>
@@ -211,14 +171,14 @@
                         <!-- Modal content-->
                         <div class="modal-content">
                             <div class="modal-body"  >
-                                <img src="img/port5.jpg" style="height:700px;width:500px;display:block;margin:auto;">
+                                <img src="img/port5.jpg" style="height:700px;width:500px;display:block;margin:auto;" class="mobilemodal">
                             </div>
                             <div class="modal-footer"  >
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/businesscard1.png);"  data-toggle="modal" data-target="#myModal3">
                             <div class="details">
                                 <h4 style="color:white;">Stay Tuned / NUR Performance Business Card 1</h4>
@@ -231,14 +191,14 @@
                         <!-- Modal content-->
                         <div class="modal-content">
                             <div class="modal-body"  >
-                                <img src="img/businesscard1.png" style="height:700px;width:500px;display:block;margin:auto;">
+                                <img src="img/businesscard1.png" style="height:700px;width:500px;display:block;margin:auto;" class="mobilemodal">
                             </div>
                             <div class="modal-footer"  >
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 portcenter">
                         <a class="portfolio-item" style="background-image: url(img/businesscard2.png);"  data-toggle="modal" data-target="#myModal4">
                             <div class="details">
                                 <h4 style="color:white;">Stay Tuned / NUR Performance Business Card 2</h4>
@@ -251,7 +211,7 @@
                         <!-- Modal content-->
                         <div class="modal-content">
                             <div class="modal-body"  >
-                                <img src="img/businesscard2.png" style="height:700px;width:500px;display:block;margin:auto;">
+                                <img src="img/businesscard2.png" style="height:700px;width:500px;display:block;margin:auto;" class="mobilemodal">
                             </div>
                             <div class="modal-footer"  >
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

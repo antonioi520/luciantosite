@@ -80,27 +80,21 @@
                     <div class="card-body">
                         <p class="card-text">Our booking system allowing customers to fill in information as per our clients guidelines in order to request a booking slot to host an event. This information is emailed to our client as well as a confirmation email to the customer.</p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+                    
                 </div>
                 <div class="card  ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Events</h5>
                     <div class="card-body">
                         <p class="card-text">On this page, our client advertises upcoming and recurring events at their venue. This is routinely updated with newly submitted events and images.</p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+                    
                 </div>
                 <div class="card ">
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Gallery</h5>
                     <div class="card-body">
                         <p class="card-text">We hold a large library of professionally taken images for our client. This library is updated periodically with newly submitted images from every event our client hosts. Due to the large number of high quality images, we work to make sure this gallery loads seamlessly on desktop and mobile devices.</p>
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Last updated 3 mins ago</small>
-                    </div>
+                    
                 </div>
             </div>
 
@@ -112,7 +106,7 @@
         <div class="row">
 
             <div class="col-md-8 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black;">Project Overview</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
                     The Bomes Theatre is a historic venue recently purchased and brought back to life. Located on the south side of Providence, The Bomes Theatre brings monthly performance events with all types of genres. The Bomes Theatre also provides services for weddings, birthdays, baby showers and more.
@@ -126,7 +120,7 @@
             </div>
             <div class="col-lg-1"></div>
             <div class="col-lg-3 about-content">
-                <h1 style="font-weight: bold;font-size: 50px;color:black">Tech Specs</h1>
+                <h1 style="font-weight: bold;font-size: 50px;color:black" class="mobilePortHead">Tech Specs</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text" style="text-align: center">
                     HTML/CSS <br> JavaScript <br> PHP <br> Analytics <br> Maintenance
@@ -142,7 +136,7 @@
 
             <div class="col-md-4"></div>
             <div class="col-md-4">
-                <div style="text-align: center;"><a href="../inquiry.php" class="page-button">Get Started Now</a></div>
+                <div style="text-align: center;"><a href="../inquiry.php" class="page-button getstartedbutton">Get Started Now</a></div>
             </div>
             <div class="col-md-4"></div>
 
@@ -153,6 +147,7 @@
 </section>
 
 <?php include '../views/footer.php'; ?>
+<?php include '../views/scripts.php'; ?>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
