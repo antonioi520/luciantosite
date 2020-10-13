@@ -14,7 +14,7 @@
                 <li><a href="../index.php#services">Services</a></li>
                 <li><a href="../index.php#portfolio">Portfolio</a></li>
                 <li><a href="../index.php#testimonials">Team</a></li>
-                <li><a href="store.html">Store</a></li>
+                <li><a href="../index.php#pricing">Pricing</a></li>
                 <!---<li class="menu-has-children"><a href="">Drop Down</a>
                   <ul>
                     <li><a href="#">Drop Down 1</a></li>
