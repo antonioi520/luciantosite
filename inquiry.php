@@ -56,9 +56,6 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -20px;">
             </div>
 
-            <h1 data-content="Shop" style="font-weight: 600; margin-top:30px;"><span>Shop</span></h1>
-        </div>
-
             <h1 data-content="Submit Inquiry" style="font-weight: 600; margin-top:30px;"><span>Submit Inquiry</span></h1>
         </div>
     </div>

@@ -97,9 +97,6 @@
                 <img class="" src="../img/lucianto.png" alt="logo text" style="margin-left: -20px;">
             </div>
 
-            <h1 data-content="Shop" style="font-weight: 600; margin-top:30px;"><span>Shop</span></h1>
-        </div>
-
             <h1 data-content="Portfolio" style="font-weight: 600; margin-top:30px;"><span>Portfolio</span></h1>
         </div>
     </div>
