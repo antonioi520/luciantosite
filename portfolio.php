@@ -44,48 +44,7 @@
 </head>
 
 <body>
-<header id="header">
-    <div class="container">
-
-      <div id="logo" class="pull-left">
-        <a href="index.php#hero"><img src="img/logo2.png" alt="" title="" /></a>
-        <a href="index.php#hero"><img src="img/lucianto.png" alt="" title="" /></a>
-        <p><a href="index.php#hero"style="color:white;font-weight: bold;font-size: 15px;"></a></p>
-      </div>
-
-      <nav id="nav-menu-container">
-        <ul class="nav-menu">
-          <li class="menu-active"><a href="index.php#hero">Home</a></li>
-          <li><a href="index.php#about">About Us</a></li>
-          <li><a href="index.php#services">Services</a></li>
-          <li><a href="index.php#portfolio">Portfolio</a></li>
-          <li><a href="index.php#testimonials">Team</a></li>
-          <li><a href="index.phpstore.html">Store</a></li>
-          <!---<li class="menu-has-children"><a href="">Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down 1 </a></li>
-              <li class="menu-has-children"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
-            </ul>
-          </li>-->
-          <li><a href="index.php#contact">Contact Us</a></li>
-          <li><a href="inquiry.php" class="navpurchasebutton">Hire Us</a></li>
-        </ul>
-      </nav>
-      <!-- #nav-menu-container -->
-    </div>
-  </header>
-  <!-- #header -->
+<?php include 'views/nav.php' ?>
 
 <section class="cd-intro" id="hero" style="height:430px;" >
     <div class="hero-container cd-intro-content mask">
