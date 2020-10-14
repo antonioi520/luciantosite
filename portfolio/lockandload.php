@@ -101,7 +101,7 @@
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">FFA multiplayer FPS combat!</h5>
                     <div class="card-body">
                         <p class="card-text">
-                            Play up against 10 other players in intense, fast paced Free-For-All FPS combat on two specially designed maps. Strategically hold the high ground on your enemies, destroy the terrain under their feet with a well placed grenade and finish with the most points to be victorious!
+                            Play up against 10 other players in intense, fast-paced Free-For-All FPS combat on two specially designed maps. Strategically hold the high ground on your enemies, destroy the terrain under their feet with a well placed grenade and finish with the most points to be victorious!
                         </p>
                     </div>
                 </div>
