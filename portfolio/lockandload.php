@@ -92,7 +92,7 @@
                     <h5 class="card-header" style="font-weight: bold;font-size: 20px;text-align: center;padding-bottom: 5%;background-color: #E9EAEA">Character Customization</h5>
                     <div class="card-body">
                         <p class="card-text">
-                            Lock & Load features many player customization options to differentiate yourself from the enemy players, such as a wide variety of helmets to choose from, multiple armor colors, multiple armor lighting colors and multiple colors to choose from or your bullet tracers.
+                            Lock & Load features many player customization options to differentiate yourself from the enemy players, such as a wide variety of helmets to choose from, multiple armor colors, multiple armor lighting colors and multiple colors to choose from for your bullet tracers.
                         </p>
                     </div>
                     
