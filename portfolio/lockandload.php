@@ -116,7 +116,7 @@
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Project Overview</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
                 <p class="about-text">
-                    Lock & Load's main draw is the gun/character customization and the terrain destruction aspect of the gameplay. Inspired by the likes of Halo and Counter Strike GO, we had 10 weeks to create a fully networked, first person shooter game with an array of different play styles. It is easy to pick up, but difficult to master as each gun part affects a different stat on your gun build. It's all about experimenting and finding what works for you naturally through gameplay.
+                    Lock & Load's main draw is the gun/character customization and the terrain destruction aspect of the gameplay. Inspired by the likes of Halo and Counter Strike GO, we had 10 weeks to create a fully networked, first person shooter game with an array of different play styles. It is easy to pick up, but difficult to master as each gun part affects a different stat on your gun build. It's all about experimenting and finding what works for you naturally through gameplay. Explosions from your grenades and rocket launchers will destroy terrain beneath your feet forming treacherous craters and destroying objects that can be used for cover. In this fast-paced shooter, you never want to be caught standing still!
                 </p>
             </div>
             <div class="col-lg-1"></div>
