@@ -67,7 +67,7 @@
     <div class="container about-container wow fadeInUp">
         <div style="text-align: center"><h1 style="font-weight: bold;color:black;font-size: 50px;">Lock & Load</h1></div>
         <div class="section-title-divider" style="width:50%;margin-bottom: 0px;"></div><br>
-
+        <div style="text-align: center"><h2 style="font-weight: bold;color:black;font-size: 20px;">Game Trailer</h2></div>
         <center>
             <video width="70%" height="90%" controls>
                 <source src="../vid/lock&loadtrailer.mp4" type="video/mp4">
