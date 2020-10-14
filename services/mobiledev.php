@@ -68,6 +68,9 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Why have a mobile site?</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/mobiledev/mobiledev.png" style="height:390px;width:600px;margin-top: 10px;">
+                </div>
                 <p class="about-text">
                     Having a website or application that works on a majority of mobile devices is a huge priority in this day and age for all businesses. Mobile traffic accounted for approximately 51% of all website traffic in 2019 with approximately 50% of consumers say they won’t return to a website if it doesn’t load properly on their mobile phone. This is a huge consumer base that you could potentially be missing out on.
                 </p>
@@ -78,7 +81,7 @@
                     Due to the accessibility from a large number of platforms, you can start reaching a much broader market and increase your engagement among customers all over the world.
                 </p>
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/mobiledev/mobiledev.png" style="height:390px;width:600px;margin-top: 10px;">
             </div>
 
@@ -88,13 +91,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/mobiledev/mobiledev5.png" style="height:425px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">How it's done</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/mobiledev/mobiledev5.png" style="height:425px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     In our own released products, we have noticed swings of up to 80% of all traffic coming from consumers viewing from their mobile devices. Without a functional mobile website or application, this is a large percentage of our customers businesses that they could potentially be losing out on.
                 </p>
