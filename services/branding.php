@@ -68,6 +68,9 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Flyers</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/design/flyer.jpg" style="height:450px;width:600px;margin-top: 10px;">
+                </div>
                 <p class="about-text">
                     We will work alongside you and your company to execute your vision and deliver a product worth showing off to your customers.
                     If your business is hosting an event or your venue is having a concert, then you likely will want to advertise this to your
@@ -79,7 +82,7 @@
                     so when advertising to them it is important to convey as much information to them as quickly as possible and in a simple-to-read manner.
                 </p>
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/design/flyer.jpg" style="height:450px;width:600px;margin-top: 10px;">
             </div>
 
@@ -89,13 +92,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/design/cards.jpg" style="height:350px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Business Cards</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/design/cards.jpg" style="height:350px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     Allow us to work with you and your company to design a business card that will be sure to impress! Business cards can say
                     a lot about you as a business, so ensuring readability and a non-intrusive, but eye-catching design is essential in leaving
