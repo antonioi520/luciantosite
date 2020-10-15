@@ -387,7 +387,7 @@
         <!--</div>-->
 
         <div class="col-md-3 portcenter">
-          <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="">
+          <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="portfolio/lockandload.php">
             <div class="details">
               <h4 style="color:white;">Lock & Load</h4>
               <span style="color:white;">PC FPS game and teaser video developed in C#!</span>
