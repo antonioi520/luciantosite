@@ -68,6 +68,9 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Benefits of Analytics</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/analytics/analytics2.png" style="height:390px;width:600px;margin-top: 10px;">
+                </div>
                 <p class="about-text">
                     Web analytics help you better identify and understand your target audience, allowing you to improve bounce rate, and increase your ROI by focusing your resources appropriately. Web analytics are additionally useful to any business for determining market interest, segmentation of the market, analyzing market trends, and determining the behavior of website visitors.
                 </p>
@@ -78,7 +81,7 @@
                     Besides identifying and understanding your target audience, web analytics can help optimize your marketing campaigns. Using an array of tools, marketers can measure the performance of a campaign and monitor which campaigns drive the most visitors. By gaining an understanding of what is and isn't working, a marketer can invest more time on the right strategies.
                 </p>
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/analytics/analytics2.png" style="height:390px;width:600px;margin-top: 10px;">
             </div>
 
@@ -88,13 +91,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/analytics/analytics5.png" style="height:340px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Analytics in Small Business</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/analytics/analytics5.png" style="height:340px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     You do not need to be a large business to benefit from web analytics. In fact, we believe the sooner a small business embraces web analytics, the better and we are here to help you through every step! We can help you detect problems in the early stages of your platform, allowing you to save money, resources, and nerves, as well as build your initial traction.
                 </p>

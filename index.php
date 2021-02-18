@@ -387,7 +387,7 @@
         <!--</div>-->
 
         <div class="col-md-3 portcenter">
-          <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="">
+          <a class="portfolio-item" style="background-image: url(img/port6-2.png);" href="portfolio/lockandload.php">
             <div class="details">
               <h4 style="color:white;">Lock & Load</h4>
               <span style="color:white;">PC FPS game and teaser video developed in C#!</span>
@@ -440,7 +440,23 @@
         </div>
       </div>
 
-      <div class="row">
+        <br id="content-mobile">
+        <div class="row" id="content-mobile">
+            <div class="col-md-3">
+                <div class="profile">
+                    <div class="pic profcenter2"><img src="img/proficons.jpg" alt=""></div>
+                    <h4>Luciano Mesiti</h4>
+                    <span>Co-Founder</span>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="quote" style="font-style:normal">
+                    <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accommodate any of your requests, including a diverse background in web and brand design! </p>
+                </div>
+            </div>
+        </div>
+
+      <div class="row" id="content-desktop">
         <div class="col-md-9">
           <div class="quote" style="font-style:normal">
             <p>Luciano Mesiti is a game developer and web developer with a bachelor's degree in Game Development and Simulations Programming specializing in many services to accommodate any of your requests, including a diverse background in web and brand design! </p>

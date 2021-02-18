@@ -68,6 +68,9 @@
         <div class="col-md-7 about-content">
             <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">The Design Process</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+            <div class="col-lg-5 about-img" id="content-mobile">
+                <img src="../img/webdevelopment/changelater.jpg" style="height:390px;width:600px;margin-top: 10px;">
+            </div>
             <p class="about-text">
                 Your website is an important tool that provides you with a podium for a necessary web presence, allowing you to get in touch with millions of users around the world, widening your range of potential customers and expanding your brand.
             </p>
@@ -78,7 +81,7 @@
                 We take your vision and start by breaking it down into a set of manageable tasks and deliverables that we work to complete, creating a road map for the project and working hard to ensure your product launches by its deadline. This also allows you to give your input on each task and what you would like changed or added.
             </p>
         </div>
-        <div class="col-lg-5 about-img">
+        <div class="col-lg-5 about-img" id="content-desktop">
             <img src="../img/webdevelopment/changelater.jpg" style="height:390px;width:600px;margin-top: 10px;">
         </div>
 
@@ -88,13 +91,16 @@
 
     <div class="row">
 
-        <div class="col-lg-5 about-img">
+        <div class="col-lg-5 about-img" id="content-desktop">
             <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
         </div>
 
         <div class="col-md-7 about-content">
             <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Responsive Web Design</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+            <div class="col-lg-5 about-img" id="content-mobile">
+                <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
+            </div>
             <p class="about-text">
                 Your website must be accessible and usable on as many devices as possible in order to widen your consumer base and bring in the most amount of users. In today's day and age, 50% of web traffic comes from mobile devices, and with the large range of screen displays today, you want to ensure you can reach all of these users.
             </p>
@@ -115,6 +121,9 @@
         <div class="col-md-7 about-content">
             <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Accessibility Web Design</h1>
             <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+            <div class="col-lg-5 about-img" id="content-mobile">
+                <img src="../img/webdevelopment/webdev.jpg" style="height:390px;width:600px;margin-top: 10px;">
+            </div>
             <p class="about-text">
                 The internet is built for everybody. We believe that all users should be accommodated for in order to ensure that your brand has as many eyes on it as possible.
             </p>
@@ -125,7 +134,7 @@
                 Not only does this help users with disabilities, but also users with small screens, older users with changing abilities due to ageing, more "temporary disabilities" like a broken arm, people with situational limitations such as in bright sunlight, or users with a slow connection.
             </p>
         </div>
-        <div class="col-lg-5 about-img">
+        <div class="col-lg-5 about-img" id="content-desktop">
             <img src="../img/webdevelopment/webdev.jpg" style="height:390px;width:600px;margin-top: 10px;">
         </div>
 

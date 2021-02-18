@@ -68,13 +68,16 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Customer Service</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/service2.jpg" style="height:350px;width:600px;">
+                </div>
                 <p class="about-text">
                     We are always around and available to fulfill any of your requests! Whether it is a question, a bug, or a new feature request, you can contact us at any time and expect a quick fix and response!
                 <p class="about-text">
                     We offer various contact options for what works best for you, including phone and email. We take pride in the loyalty we have between us and the businesses that choose to work with us and diligently work to ensure that this experience is as easy as possible for you. 
                 </p>
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/service2.jpg" style="height:350px;width:600px;">
             </div>
 
@@ -84,13 +87,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/maintenance.jpg" style="height:370px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Maintenance</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/maintenance.jpg" style="height:370px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     Every second counts, the slower your website loads, the more likely a user is to leave. That is why we routinely have performance checks to make sure that your site is running at the fastest speed possible. 
                 </p>

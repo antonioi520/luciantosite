@@ -68,6 +68,9 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Benefits of a Digital Storefront</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/store/store.png" style="height:390px;width:600px;margin-top: 10px;">
+                </div>
                 <p class="about-text">
                     Having a digital storefront is now more important than ever in an age of convenience-based shopping and technological growth.
                     Online shopping allows you to draw in customers from around the globe interested in purchasing your goods that
@@ -78,7 +81,7 @@
                     website seamlessly.
                 </p>
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/store/store.png" style="height:390px;width:600px;margin-top: 10px;">
             </div>
 
@@ -88,13 +91,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/store/store2.png" style="height:450px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Branding and Online Shopping</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/store/store2.png" style="height:450px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     Branding is a critical part of any successful business, as it's how your customers can identify and recognize
                     you in a sea of competitors. This can encompass a name, symbol, or design and it is generally representative of

@@ -68,6 +68,9 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;">What is a database?</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/database/database.jpg" style="height:390px;width:600px;margin-top: 10px;">
+                </div>
                 <p class="about-text">
                     A database is an accessible collection of organized data stored on a computer. It is used to capture and analyze data from users or other applications. For example, it allows you to see and analyze what products your consumers are purchasing.
                 </p>
@@ -78,7 +81,7 @@
                     You do not exclusively need an application or website to find use for a database. Databases can be used to store and analyze any type of data you can think of. For example, databases can be used to keep track of payroll for your company, inventory of products, or even tracking shipments of goods.
                 </p>
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/database/database.jpg" style="height:390px;width:600px;margin-top: 10px;">
             </div>
 
@@ -88,13 +91,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Why do I need a database?</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     Many small business continue to use text files or Excel spreadsheets to store and maintain their data, which may work well for their specific needs, but there are many unique problems this can cause.
                 </p>
@@ -115,6 +121,9 @@
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Managing Your Database</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/database/database2.png" style="height:340px;width:600px;margin-top: 10px;">
+                </div>
                 <p class="about-text">
                     We make it very easy to manage your website's database. We understand the process of learning how to use and maintain databases can be difficult, which is why we create special tools to allow you to easily manage your data. We do this with a Content Management System.
                 </p>
@@ -123,7 +132,7 @@
                 </p>
 
             </div>
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/database/database2.png" style="height:340px;width:600px;margin-top: 10px;">
             </div>
 
@@ -133,13 +142,16 @@
 
         <div class="row">
 
-            <div class="col-lg-5 about-img">
+            <div class="col-lg-5 about-img" id="content-desktop">
                 <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
             </div>
 
             <div class="col-md-7 about-content">
                 <h1 style="font-weight: bold;font-size: 50px;color:black;" class="mobilePortHead">Database Security</h1>
                 <div class="section-title-divider" style="width:100%;float:left;margin-bottom: 0px;"></div><br>
+                <div class="col-lg-5 about-img" id="content-mobile">
+                    <img src="../img/webdevelopment/responsive-web-design-caktus%20(1).png" style="height:390px;width:600px;margin-top: 10px;float:left;">
+                </div>
                 <p class="about-text">
                     We are able to build your database from the ground up as well as maintain it and keep it secure. We take security very seriously and keep up with the best practices to keep you and your users information safe.
                 </p>
